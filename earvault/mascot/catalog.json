@@ -1,0 +1,1115 @@
+{
+  "schemaVersion": 3,
+  "categories": [
+    {
+      "id": "animal",
+      "names": {
+        "en": "Animals",
+        "zh": "动物",
+        "ar": "الحيوانات",
+        "de": "Tiere",
+        "es": "Animales",
+        "hi": "जानवर",
+        "ja": "動物",
+        "ko": "동물",
+        "pt": "Animais",
+        "ru": "Животные"
+      }
+    },
+    {
+      "id": "tech",
+      "names": {
+        "en": "Tech",
+        "zh": "科技",
+        "ar": "التقنية",
+        "de": "Technik",
+        "es": "Tecnología",
+        "hi": "तकनीक",
+        "ja": "テクノロジー",
+        "ko": "테크",
+        "pt": "Tecnologia",
+        "ru": "Технологии"
+      }
+    },
+    {
+      "id": "plant",
+      "names": {
+        "en": "Plants",
+        "zh": "植物",
+        "ar": "النباتات",
+        "de": "Pflanzen",
+        "es": "Plantas",
+        "hi": "पौधे",
+        "ja": "植物",
+        "ko": "식물",
+        "pt": "Plantas",
+        "ru": "Растения"
+      }
+    },
+    {
+      "id": "instrument",
+      "names": {
+        "zh": "乐器",
+        "en": "Instruments",
+        "ar": "آلات موسيقية",
+        "de": "Instrumente",
+        "es": "Instrumentos",
+        "hi": "वाद्ययंत्र",
+        "ja": "楽器",
+        "ko": "악기",
+        "pt": "Instrumentos",
+        "ru": "Инструменты"
+      }
+    },
+    {
+      "id": "retro_audio",
+      "names": {
+        "zh": "复古音响",
+        "en": "Retro Audio",
+        "ar": "أجهزة صوت قديمة",
+        "de": "Retro-Audio",
+        "es": "Audio retro",
+        "hi": "रेट्रो ऑडियो",
+        "ja": "レトロオーディオ",
+        "ko": "레트로 오디오",
+        "pt": "Áudio retrô",
+        "ru": "Ретроаудио"
+      }
+    },
+    {
+      "id": "stage_companions",
+      "names": {
+        "zh": "舞台伙伴",
+        "en": "Stage Companions",
+        "ar": "رفاق المسرح",
+        "de": "Bühnenfreunde",
+        "es": "Compañeros de escena",
+        "hi": "मंच साथी",
+        "ja": "ステージの仲間",
+        "ko": "무대 친구들",
+        "pt": "Companheiros de palco",
+        "ru": "Друзья сцены"
+      }
+    },
+    {
+      "id": "sound_sprites",
+      "names": {
+        "zh": "声音精灵",
+        "en": "Sound Sprites",
+        "ar": "أرواح الصوت",
+        "de": "Klanggeister",
+        "es": "Duendes del sonido",
+        "hi": "सुर परियाँ",
+        "ja": "音の精霊",
+        "ko": "소리 요정",
+        "pt": "Duendes do som",
+        "ru": "Духи звука"
+      }
+    },
+    {
+      "id": "tide_friends",
+      "names": {
+        "zh": "潮汐伙伴",
+        "en": "Tide Friends",
+        "ar": "رفاق المد",
+        "de": "Gezeitenfreunde",
+        "es": "Amigos de la marea",
+        "hi": "ज्वार के साथी",
+        "ja": "潮の仲間",
+        "ko": "바닷가 친구들",
+        "pt": "Amigos da maré",
+        "ru": "Друзья прилива"
+      }
+    },
+    {
+      "id": "whale_girls",
+      "names": {
+        "zh": "鲸鱼娘",
+        "en": "Whale Girls",
+        "ar": "فتيات الحيتان",
+        "de": "Walmädchen",
+        "es": "Chicas ballena",
+        "hi": "व्हेल कन्याएँ",
+        "ja": "クジラ娘",
+        "ko": "고래 소녀",
+        "pt": "Garotas-baleia",
+        "ru": "Девушки-киты"
+      }
+    }
+  ],
+  "pets": [
+    {
+      "id": "dog",
+      "names": {
+        "en": "Puppy",
+        "zh": "小狗",
+        "ar": "جرو",
+        "de": "Welpe",
+        "es": "Perrito",
+        "hi": "पिल्ला",
+        "ja": "子犬",
+        "ko": "강아지",
+        "pt": "Cachorrinho",
+        "ru": "Щенок"
+      },
+      "preview": "mascot/dog-cover.webp",
+      "archive": "mascot/dog.zip",
+      "sha256": "d3382fd5089418a48646a6c8230b0b4c45ff6dc01b41eef515d3aea3e0f70d8e",
+      "categoryId": "animal"
+    },
+    {
+      "id": "cat",
+      "names": {
+        "en": "Kitten",
+        "zh": "小猫",
+        "ar": "قطة صغيرة",
+        "de": "Kätzchen",
+        "es": "Gatito",
+        "hi": "बिल्ली का बच्चा",
+        "ja": "子猫",
+        "ko": "고양이",
+        "pt": "Gatinho",
+        "ru": "Котёнок"
+      },
+      "preview": "mascot/cat-cover.webp",
+      "archive": "mascot/cat.zip",
+      "sha256": "101bc2620c65070ceb43e3d4565c70c5a1e0e07c1deacae72d7d82c0b9804bff",
+      "categoryId": "animal"
+    },
+    {
+      "id": "robot",
+      "names": {
+        "en": "AI Robot",
+        "zh": "AI 机器人",
+        "ar": "روبوت ذكي",
+        "de": "KI-Roboter",
+        "es": "Robot de IA",
+        "hi": "एआई रोबोट",
+        "ja": "AIロボット",
+        "ko": "AI 로봇",
+        "pt": "Robô de IA",
+        "ru": "ИИ-робот"
+      },
+      "archive": "mascot/robot.zip",
+      "preview": "mascot/robot-cover.webp",
+      "sha256": "6a22ae4131f8f123e6ddd8a31ed6e31a050cc7b33515b26701739f9de9eb3a2b",
+      "categoryId": "tech"
+    },
+    {
+      "id": "fox",
+      "names": {
+        "zh": "落日狐",
+        "en": "Sunset Fox",
+        "ar": "ثعلب الغروب",
+        "de": "Abendrotfuchs",
+        "es": "Zorro del ocaso",
+        "hi": "सांझ की लोमड़ी",
+        "ja": "夕焼けキツネ",
+        "ko": "노을여우",
+        "pt": "Raposa do poente",
+        "ru": "Закатный лис"
+      },
+      "archive": "mascot/fox.zip",
+      "preview": "mascot/fox-cover.webp",
+      "sha256": "e8cb469e5a473b4e7c1c20881765ebb36507951efbcaeaed786e5503da2faa46",
+      "categoryId": "animal"
+    },
+    {
+      "id": "penguin",
+      "names": {
+        "zh": "小礼帽企鹅",
+        "en": "Top Hat Penguin",
+        "ar": "بطريق القبعة",
+        "de": "Pinguin mit Zylinder",
+        "es": "Pingüino de copa",
+        "hi": "टोपी वाला पेंगुइन",
+        "ja": "シルクハットペンギン",
+        "ko": "신사 펭귄",
+        "pt": "Pinguim de cartola",
+        "ru": "Пингвин в цилиндре"
+      },
+      "archive": "mascot/penguin.zip",
+      "preview": "mascot/penguin-cover.webp",
+      "sha256": "4dc4f8abd27ce1a33e1472923ce5da74867a2f25b9eb97894bc14b570e9796b0",
+      "categoryId": "animal"
+    },
+    {
+      "id": "frog",
+      "names": {
+        "zh": "荷叶蛙",
+        "en": "Lily Pad Frog",
+        "ar": "ضفدع الزنبق",
+        "de": "Seerosenfrosch",
+        "es": "Rana de nenúfar",
+        "hi": "कमल का मेंढक",
+        "ja": "ハスの葉ガエル",
+        "ko": "연잎 개구리",
+        "pt": "Rã da vitória-régia",
+        "ru": "Лягушонок на кувшинке"
+      },
+      "archive": "mascot/frog.zip",
+      "preview": "mascot/frog-cover.webp",
+      "sha256": "f9262f09677decc41b846f15a4ed489c60a901f8688ed1feda6aeaebd2b82c69",
+      "categoryId": "animal"
+    },
+    {
+      "id": "owl",
+      "names": {
+        "zh": "星图鸮",
+        "en": "Star Chart Owl",
+        "ar": "بومة النجوم",
+        "de": "Sternkarten-Eule",
+        "es": "Búho estelar",
+        "hi": "तारों का उल्लू",
+        "ja": "星図フクロウ",
+        "ko": "별자리 부엉이",
+        "pt": "Coruja das estrelas",
+        "ru": "Звёздный филин"
+      },
+      "archive": "mascot/owl.zip",
+      "preview": "mascot/owl-cover.webp",
+      "sha256": "a8b27f53ccf7e24a701623c7ec85b29c6ab57bb202f86441bec24e205a7edfe8",
+      "categoryId": "animal"
+    },
+    {
+      "id": "axolotl",
+      "names": {
+        "zh": "樱花六角龙",
+        "en": "Blossom Axolotl",
+        "ar": "أكسولوتل الزهر",
+        "de": "Blütenaxolotl",
+        "es": "Ajolote en flor",
+        "hi": "गुलाबी ऐक्सोलॉटल",
+        "ja": "桜ウーパールーパー",
+        "ko": "벚꽃 우파루파",
+        "pt": "Axolote em flor",
+        "ru": "Цветочный аксолотль"
+      },
+      "archive": "mascot/axolotl.zip",
+      "preview": "mascot/axolotl-cover.webp",
+      "sha256": "34ada66e15e6403cb172d4a71ad4e6136b85abd39b725c6fbdfad98b8a875b18",
+      "categoryId": "animal"
+    },
+    {
+      "id": "whale",
+      "names": {
+        "zh": "云海鲸",
+        "en": "Cloud Whale",
+        "ar": "حوت السحاب",
+        "de": "Wolkenwal",
+        "es": "Ballena de nubes",
+        "hi": "बादल की व्हेल",
+        "ja": "雲海クジラ",
+        "ko": "구름고래",
+        "pt": "Baleia das nuvens",
+        "ru": "Облачный кит"
+      },
+      "archive": "mascot/whale.zip",
+      "preview": "mascot/whale-cover.webp",
+      "sha256": "ac9d9a53f4a87d32edca4a6c97ca8b49daff3115ece4b15da75c380760910463",
+      "categoryId": "animal"
+    },
+    {
+      "id": "hedgehog",
+      "names": {
+        "zh": "栗栗刺猬",
+        "en": "Chestnut Hedgehog",
+        "ar": "قنفذ الكستناء",
+        "de": "Kastanienigel",
+        "es": "Erizo castaña",
+        "hi": "शाहबलूत हेजहॉग",
+        "ja": "栗ハリネズミ",
+        "ko": "밤송이 고슴도치",
+        "pt": "Ouriço-castanha",
+        "ru": "Каштановый ёжик"
+      },
+      "archive": "mascot/hedgehog.zip",
+      "preview": "mascot/hedgehog-cover.webp",
+      "sha256": "626e1a3095e4ede428d1c6a5ede816abb52d53f1192587736ed53b47542a1b54",
+      "categoryId": "animal"
+    },
+    {
+      "id": "jellyfish",
+      "names": {
+        "zh": "极光水母",
+        "en": "Aurora Jelly",
+        "ar": "قنديل الشفق",
+        "de": "Polarlichtqualle",
+        "es": "Medusa aurora",
+        "hi": "ऑरोरा जेलीफ़िश",
+        "ja": "オーロラクラゲ",
+        "ko": "오로라 해파리",
+        "pt": "Água-viva aurora",
+        "ru": "Полярная медуза"
+      },
+      "archive": "mascot/jellyfish.zip",
+      "preview": "mascot/jellyfish-cover.webp",
+      "sha256": "e2f406b217baf8aed63a0eac18ddb9a46f79280297be1c8b542c03e24f36e57f",
+      "categoryId": "animal"
+    },
+    {
+      "id": "moth",
+      "names": {
+        "zh": "月灯蛾",
+        "en": "Lantern Moth",
+        "ar": "عثة الفانوس",
+        "de": "Laternenfalter",
+        "es": "Polilla farol",
+        "hi": "लालटेन पतंगा",
+        "ja": "月灯りの蛾",
+        "ko": "달빛나방",
+        "pt": "Mariposa-lanterna",
+        "ru": "Лунный мотылёк"
+      },
+      "archive": "mascot/moth.zip",
+      "preview": "mascot/moth-cover.webp",
+      "sha256": "37a8a82d830b42d2fa8ad580f1230e34b61c00f76978209c20f729ac2706a597",
+      "categoryId": "animal"
+    },
+    {
+      "id": "sea_turtle",
+      "names": {
+        "zh": "珊瑚海龟",
+        "en": "Coral Sea Turtle",
+        "ar": "سلحفاة المرجان",
+        "de": "Korallenschildkröte",
+        "es": "Tortuga coral",
+        "hi": "मूंगा कछुआ",
+        "ja": "サンゴウミガメ",
+        "ko": "산호 바다거북",
+        "pt": "Tartaruga-coral",
+        "ru": "Коралловая черепаха"
+      },
+      "archive": "mascot/sea_turtle.zip",
+      "preview": "mascot/sea_turtle-cover.webp",
+      "sha256": "4f619bdf989a6899e02e57acd49f84c7301472be945cf678be6c4ac99c461f10",
+      "categoryId": "animal"
+    },
+    {
+      "id": "beat_cactus",
+      "names": {
+        "zh": "节拍仙人掌",
+        "en": "Beat Cactus",
+        "ar": "صبار الإيقاع",
+        "de": "Taktkaktus",
+        "es": "Cactus rítmico",
+        "hi": "ताल कैक्टस",
+        "ja": "ビートサボテン",
+        "ko": "리듬 선인장",
+        "pt": "Cacto do ritmo",
+        "ru": "Кактус в такт"
+      },
+      "archive": "mascot/beat_cactus.zip",
+      "preview": "mascot/beat_cactus-cover.webp",
+      "sha256": "02cb9262d75b8c0a094423f5336db8903768a2987fdc6ab8afe32e1e9be27c02",
+      "categoryId": "plant"
+    },
+    {
+      "id": "lily_bells",
+      "names": {
+        "zh": "铃兰风铃",
+        "en": "Lily Bells",
+        "ar": "أجراس زنبق الوادي",
+        "de": "Maiglöckchen",
+        "es": "Campanitas de mayo",
+        "hi": "घंटी लिली",
+        "ja": "すずらん風鈴",
+        "ko": "은방울꽃 풍경",
+        "pt": "Sininhos do vale",
+        "ru": "Колокольчики ландыша"
+      },
+      "archive": "mascot/lily_bells.zip",
+      "preview": "mascot/lily_bells-cover.webp",
+      "sha256": "5d6e756e3596590ddedb77a2ed4517fcd5a61be9fbb47d1b2349aad15397df15",
+      "categoryId": "plant"
+    },
+    {
+      "id": "sunny_sunflower",
+      "names": {
+        "zh": "暖阳向日葵",
+        "en": "Sunny Sunflower",
+        "ar": "دوّار الشمس الدافئ",
+        "de": "Sonnenblümchen",
+        "es": "Girasol soleado",
+        "hi": "सुनहरा सूरजमुखी",
+        "ja": "陽だまりヒマワリ",
+        "ko": "햇살 해바라기",
+        "pt": "Girassol solar",
+        "ru": "Солнечный подсолнух"
+      },
+      "archive": "mascot/sunny_sunflower.zip",
+      "preview": "mascot/sunny_sunflower-cover.webp",
+      "sha256": "660b779ba31254e6945abf0a547569879928970bbdb49b03129f995a9fe56992",
+      "categoryId": "plant"
+    },
+    {
+      "id": "lily_boat",
+      "names": {
+        "zh": "睡莲小舟",
+        "en": "Water Lily Boat",
+        "ar": "قارب زنبق الماء",
+        "de": "Seerosenboot",
+        "es": "Barquita nenúfar",
+        "hi": "कुमुदिनी की नाव",
+        "ja": "睡蓮の小舟",
+        "ko": "수련 조각배",
+        "pt": "Barquinho de nenúfar",
+        "ru": "Лодочка кувшинки"
+      },
+      "archive": "mascot/lily_boat.zip",
+      "preview": "mascot/lily_boat-cover.webp",
+      "sha256": "d6f4edcc46b5f13418a99df4321588b62e71bd144014e00e096b56ffc37f94a3",
+      "categoryId": "plant"
+    },
+    {
+      "id": "shy_mimosa",
+      "names": {
+        "zh": "抱抱含羞草",
+        "en": "Hugging Mimosa",
+        "ar": "ميموزا العناق",
+        "de": "Kuschelmimose",
+        "es": "Mimosa mimosa",
+        "hi": "लजवंती की झप्पी",
+        "ja": "ハグするミモザ",
+        "ko": "포옹 미모사",
+        "pt": "Mimosa do abraço",
+        "ru": "Мимоза-обнимашка"
+      },
+      "archive": "mascot/shy_mimosa.zip",
+      "preview": "mascot/shy_mimosa-cover.webp",
+      "sha256": "631368f1f61ec02d99cc21cfc26d60a2b382e49b54482e7a6178835e3cbefb4c",
+      "categoryId": "plant"
+    },
+    {
+      "id": "snap_drummer",
+      "names": {
+        "zh": "捕蝇草鼓手",
+        "en": "Flytrap Drummer",
+        "ar": "عازف الطبل صائد الذباب",
+        "de": "Fliegenfallen-Trommler",
+        "es": "Venus percusionista",
+        "hi": "फ्लाईट्रैप ढोलकिया",
+        "ja": "ハエトリドラマー",
+        "ko": "파리지옥 드러머",
+        "pt": "Papa-moscas baterista",
+        "ru": "Мухоловка-барабанщик"
+      },
+      "archive": "mascot/snap_drummer.zip",
+      "preview": "mascot/snap_drummer-cover.webp",
+      "sha256": "5409c4ac99f5168027ad185b15b4b4aa88bbba7ecc3d122f402fdd6604ddb063",
+      "categoryId": "plant"
+    },
+    {
+      "id": "dandelion_pilot",
+      "names": {
+        "zh": "蒲公英伞兵",
+        "en": "Dandelion Parachutist",
+        "ar": "مظلّي الهندباء",
+        "de": "Löwenzahn-Springer",
+        "es": "Diente de león paracaidista",
+        "hi": "सिंहपर्णी पैराशूटिस्ट",
+        "ja": "タンポポ落下傘兵",
+        "ko": "민들레 낙하병",
+        "pt": "Paraquedista dente-de-leão",
+        "ru": "Одуванчик-парашютист"
+      },
+      "archive": "mascot/dandelion_pilot.zip",
+      "preview": "mascot/dandelion_pilot-cover.webp",
+      "sha256": "34fcb03052096a873d72b456891b20f66122043cb6f2e7aebb5150da7f1a0cb6",
+      "categoryId": "plant"
+    },
+    {
+      "id": "ginkgo_fan",
+      "names": {
+        "zh": "银杏舞扇",
+        "en": "Ginkgo Fan Dancer",
+        "ar": "راقص مروحة الجنكة",
+        "de": "Ginkgo-Fächertänzer",
+        "es": "Ginkgo de abanicos",
+        "hi": "गिंकगो पंखा नर्तक",
+        "ja": "銀杏の扇舞",
+        "ko": "은행잎 부채춤",
+        "pt": "Ginkgo dos leques",
+        "ru": "Гинкго с веерами"
+      },
+      "archive": "mascot/ginkgo_fan.zip",
+      "preview": "mascot/ginkgo_fan-cover.webp",
+      "sha256": "d13338cc7ca682a1658d11ce1b5458e76351e5f37a34ac222d9992af054a82c1",
+      "categoryId": "plant"
+    },
+    {
+      "id": "bamboo_actor",
+      "names": {
+        "zh": "竹笋小武生",
+        "en": "Bamboo Acrobat",
+        "ar": "بهلوان الخيزران",
+        "de": "Bambus-Akrobat",
+        "es": "Bambú acróbata",
+        "hi": "बाँस का कलाबाज़",
+        "ja": "タケノコ武芸者",
+        "ko": "죽순 무예가",
+        "pt": "Broto acrobata",
+        "ru": "Бамбуковый акробат"
+      },
+      "archive": "mascot/bamboo_actor.zip",
+      "preview": "mascot/bamboo_actor-cover.webp",
+      "sha256": "4134e4e2f2c924ac940f8fc1802fba07c2433913f9a3e3c9b04a2449d3fb3919",
+      "categoryId": "plant"
+    },
+    {
+      "id": "strawberry_waltz",
+      "names": {
+        "zh": "草莓圆舞曲",
+        "en": "Strawberry Waltz",
+        "ar": "فالس الفراولة",
+        "de": "Erdbeerwalzer",
+        "es": "Vals de fresa",
+        "hi": "स्ट्रॉबेरी वॉल्ट्ज़",
+        "ja": "苺のワルツ",
+        "ko": "딸기 왈츠",
+        "pt": "Valsa de morango",
+        "ru": "Клубничный вальс"
+      },
+      "archive": "mascot/strawberry_waltz.zip",
+      "preview": "mascot/strawberry_waltz-cover.webp",
+      "sha256": "3c4a61e035979ebb1957c3349844011bd7efb520ee458d7d55075366444ca128",
+      "categoryId": "plant"
+    },
+    {
+      "id": "accordion",
+      "names": {
+        "zh": "手风琴",
+        "en": "Accordion",
+        "ar": "أكورديون",
+        "de": "Akkordeon",
+        "es": "Acordeón",
+        "hi": "अकॉर्डियन",
+        "ja": "アコーディオン",
+        "ko": "아코디언",
+        "pt": "Acordeão",
+        "ru": "Аккордеон"
+      },
+      "categoryId": "instrument",
+      "archive": "mascot/accordion.zip",
+      "preview": "mascot/accordion-cover.webp",
+      "sha256": "b708c1ad4ee399b9b0e3eededcc4e7f154ed261a799dd87adc57fe182ea1ffb8"
+    },
+    {
+      "id": "drum_kit",
+      "names": {
+        "zh": "架子鼓",
+        "en": "Drum Kit",
+        "ar": "طقم طبول",
+        "de": "Schlagzeug",
+        "es": "Batería",
+        "hi": "ड्रम किट",
+        "ja": "ドラムセット",
+        "ko": "드럼 세트",
+        "pt": "Bateria",
+        "ru": "Ударная установка"
+      },
+      "categoryId": "instrument",
+      "archive": "mascot/drum_kit.zip",
+      "preview": "mascot/drum_kit-cover.webp",
+      "sha256": "3443205b874d3bb258feb7e8e3648dc7cf2a087607eedd710ba800ef5a2fe0df"
+    },
+    {
+      "id": "french_horn",
+      "names": {
+        "zh": "圆号",
+        "en": "French Horn",
+        "ar": "البوق الفرنسي",
+        "de": "Waldhorn",
+        "es": "Trompa",
+        "hi": "फ्रेंच हॉर्न",
+        "ja": "ホルン",
+        "ko": "호른",
+        "pt": "Trompa",
+        "ru": "Валторна"
+      },
+      "categoryId": "instrument",
+      "archive": "mascot/french_horn.zip",
+      "preview": "mascot/french_horn-cover.webp",
+      "sha256": "bd5146f20ae164e51ad94e1e45cd3ff0be1a18dd3f62e49635cf1f2a28484045"
+    },
+    {
+      "id": "xylophone",
+      "names": {
+        "zh": "木琴",
+        "en": "Xylophone",
+        "ar": "إكسيليفون",
+        "de": "Xylophon",
+        "es": "Xilófono",
+        "hi": "ज़ाइलोफ़ोन",
+        "ja": "木琴",
+        "ko": "실로폰",
+        "pt": "Xilofone",
+        "ru": "Ксилофон"
+      },
+      "categoryId": "instrument",
+      "archive": "mascot/xylophone.zip",
+      "preview": "mascot/xylophone-cover.webp",
+      "sha256": "2d13a27a3eb3dfa891ec714aca1f5455a6ddb4004d656056fa11dceec32d2098"
+    },
+    {
+      "id": "grand_piano",
+      "names": {
+        "zh": "三角钢琴",
+        "en": "Grand Piano",
+        "ar": "بيانو كبير",
+        "de": "Flügel",
+        "es": "Piano de cola",
+        "hi": "ग्रैंड पियानो",
+        "ja": "グランドピアノ",
+        "ko": "그랜드 피아노",
+        "pt": "Piano de cauda",
+        "ru": "Рояль"
+      },
+      "categoryId": "instrument",
+      "archive": "mascot/grand_piano.zip",
+      "preview": "mascot/grand_piano-cover.webp",
+      "sha256": "132ea661d9cd3466b4e487f18a8172faacce398e7761f7b0e09287b5d7f5f05c"
+    },
+    {
+      "id": "vinyl_player",
+      "names": {
+        "zh": "黑胶唱机",
+        "en": "Record Player",
+        "ar": "مشغّل أسطوانات",
+        "de": "Plattenspieler",
+        "es": "Tocadiscos",
+        "hi": "रिकॉर्ड प्लेयर",
+        "ja": "レコードプレーヤー",
+        "ko": "턴테이블",
+        "pt": "Toca-discos",
+        "ru": "Проигрыватель пластинок"
+      },
+      "categoryId": "retro_audio",
+      "archive": "mascot/vinyl_player.zip",
+      "preview": "mascot/vinyl_player-cover.webp",
+      "sha256": "c0ce71d5e3dfd86b62ce139d2feed1f3ce17cb99d9f09ee0cae0332113e1698e"
+    },
+    {
+      "id": "cassette_player",
+      "names": {
+        "zh": "磁带随身听",
+        "en": "Cassette Player",
+        "ar": "مشغّل أشرطة",
+        "de": "Kassettenspieler",
+        "es": "Reproductor de casetes",
+        "hi": "कैसेट प्लेयर",
+        "ja": "カセットプレーヤー",
+        "ko": "카세트 플레이어",
+        "pt": "Toca-fitas",
+        "ru": "Кассетный плеер"
+      },
+      "categoryId": "retro_audio",
+      "archive": "mascot/cassette_player.zip",
+      "preview": "mascot/cassette_player-cover.webp",
+      "sha256": "5724c314aab5c8f5d3cc9785c56240b971afd8662c2a5f0046d663ed701381fe"
+    },
+    {
+      "id": "dial_radio",
+      "names": {
+        "zh": "旋钮收音机",
+        "en": "Dial Radio",
+        "ar": "راديو بمؤشر",
+        "de": "Drehknopfradio",
+        "es": "Radio de dial",
+        "hi": "डायल रेडियो",
+        "ja": "ダイヤルラジオ",
+        "ko": "다이얼 라디오",
+        "pt": "Rádio de botão",
+        "ru": "Радиоприёмник"
+      },
+      "categoryId": "retro_audio",
+      "archive": "mascot/dial_radio.zip",
+      "preview": "mascot/dial_radio-cover.webp",
+      "sha256": "bb3437c92f069ebfa55d0b6ca319cc900a20a480a22bf24d44e88de8a0db651c"
+    },
+    {
+      "id": "crank_music_box",
+      "names": {
+        "zh": "手摇八音盒",
+        "en": "Crank Music Box",
+        "ar": "صندوق موسيقى يدوي",
+        "de": "Kurbelspieluhr",
+        "es": "Caja de música",
+        "hi": "संगीत पेटी",
+        "ja": "手回しオルゴール",
+        "ko": "손잡이 오르골",
+        "pt": "Caixa de música",
+        "ru": "Музыкальная шкатулка"
+      },
+      "categoryId": "retro_audio",
+      "archive": "mascot/crank_music_box.zip",
+      "preview": "mascot/crank_music_box-cover.webp",
+      "sha256": "04cc095d8f76bdd56b309e18f184a4770621e1577df2a57c67b7381e740edb59"
+    },
+    {
+      "id": "jukebox",
+      "names": {
+        "zh": "点唱机",
+        "en": "Jukebox",
+        "ar": "صندوق الأغاني",
+        "de": "Jukebox",
+        "es": "Rocola",
+        "hi": "ज्यूकबॉक्स",
+        "ja": "ジュークボックス",
+        "ko": "주크박스",
+        "pt": "Jukebox",
+        "ru": "Музыкальный автомат"
+      },
+      "categoryId": "retro_audio",
+      "archive": "mascot/jukebox.zip",
+      "preview": "mascot/jukebox-cover.webp",
+      "sha256": "6a6651fe03f598e8b3014e64a2faea86d18e0fca247910caa7e2b7304224f169"
+    },
+    {
+      "id": "spotlight_pal",
+      "names": {
+        "zh": "追光灯仔",
+        "en": "Spotlight Scout",
+        "ar": "الكشاف الصغير",
+        "de": "Spotlicht",
+        "es": "Foquito",
+        "hi": "नन्ही स्पॉटलाइट",
+        "ja": "スポットライトくん",
+        "ko": "꼬마 조명",
+        "pt": "Holofotinho",
+        "ru": "Малыш-прожектор"
+      },
+      "categoryId": "stage_companions",
+      "archive": "mascot/spotlight_pal.zip",
+      "preview": "mascot/spotlight_pal-cover.webp",
+      "sha256": "0b49a141cd1f71f9b817241da68f4e4efc2af9447da3e3860ef2401d48bbaf20"
+    },
+    {
+      "id": "disco_dancer",
+      "names": {
+        "zh": "镜球舞王",
+        "en": "Disco Dancer",
+        "ar": "راقص كرة المرايا",
+        "de": "Diskotänzer",
+        "es": "Bola bailarina",
+        "hi": "डिस्को डांसर",
+        "ja": "ミラーボールダンサー",
+        "ko": "미러볼 댄서",
+        "pt": "Globo dançarino",
+        "ru": "Диско-танцор"
+      },
+      "categoryId": "stage_companions",
+      "archive": "mascot/disco_dancer.zip",
+      "preview": "mascot/disco_dancer-cover.webp",
+      "sha256": "d8b749a7205de038af06f6260065e7fa31936ff612add1233577495bc661f808"
+    },
+    {
+      "id": "mic_soloist",
+      "names": {
+        "zh": "立麦主唱",
+        "en": "Mic Soloist",
+        "ar": "الميكروفون المغني",
+        "de": "Mikro-Solist",
+        "es": "Micro solista",
+        "hi": "माइक गायक",
+        "ja": "マイクボーカル",
+        "ko": "마이크 보컬",
+        "pt": "Microfone solista",
+        "ru": "Микрофон-солист"
+      },
+      "categoryId": "stage_companions",
+      "archive": "mascot/mic_soloist.zip",
+      "preview": "mascot/mic_soloist-cover.webp",
+      "sha256": "c682c194ba33485a4d4b250945b8bb9a2300bc7e4ff8191b3ba24812957ad241"
+    },
+    {
+      "id": "velvet_curtain",
+      "names": {
+        "zh": "幕布团子",
+        "en": "Velvet Curtain",
+        "ar": "الستارة المخملية",
+        "de": "Samtvorhang",
+        "es": "Telón de terciopelo",
+        "hi": "मखमली परदा",
+        "ja": "ベルベットの幕",
+        "ko": "벨벳 커튼",
+        "pt": "Cortina de veludo",
+        "ru": "Бархатный занавес"
+      },
+      "categoryId": "stage_companions",
+      "archive": "mascot/velvet_curtain.zip",
+      "preview": "mascot/velvet_curtain-cover.webp",
+      "sha256": "d974a63d03018d99cbe5cffd2da842efae0fbe6822d8bdfd46d5ecb1ca0be2f1"
+    },
+    {
+      "id": "little_conductor",
+      "names": {
+        "zh": "小小指挥家",
+        "en": "Little Conductor",
+        "ar": "قائد الأوركسترا الصغير",
+        "de": "Kleiner Dirigent",
+        "es": "Pequeño director",
+        "hi": "नन्हा संचालक",
+        "ja": "小さな指揮者",
+        "ko": "꼬마 지휘자",
+        "pt": "Pequeno maestro",
+        "ru": "Маленький дирижёр"
+      },
+      "categoryId": "stage_companions",
+      "archive": "mascot/little_conductor.zip",
+      "preview": "mascot/little_conductor-cover.webp",
+      "sha256": "8322ef107ef1da45f900baf2111dea3c72102c445862dc00487ff03b896185a3"
+    },
+    {
+      "id": "echo_twins",
+      "names": {
+        "zh": "回声双子",
+        "en": "Echo Twins",
+        "ar": "توأما الصدى",
+        "de": "Echo-Zwillinge",
+        "es": "Gemelos eco",
+        "hi": "गूँज जुड़वाँ",
+        "ja": "こだまツインズ",
+        "ko": "메아리 쌍둥이",
+        "pt": "Gêmeos do eco",
+        "ru": "Близнецы эха"
+      },
+      "categoryId": "sound_sprites",
+      "archive": "mascot/echo_twins.zip",
+      "preview": "mascot/echo_twins-cover.webp",
+      "sha256": "8f000b434248fff36bd2684bd9b752451b29549a45e4c80f730502f501cab5ff"
+    },
+    {
+      "id": "bass_gummy",
+      "names": {
+        "zh": "低音软糖",
+        "en": "Bass Gummy",
+        "ar": "حلوى الجهير",
+        "de": "Bass-Gummi",
+        "es": "Gomita grave",
+        "hi": "बेस गमी",
+        "ja": "低音グミ",
+        "ko": "베이스 젤리",
+        "pt": "Goma grave",
+        "ru": "Басовая мармеладка"
+      },
+      "categoryId": "sound_sprites",
+      "archive": "mascot/bass_gummy.zip",
+      "preview": "mascot/bass_gummy-cover.webp",
+      "sha256": "7edaaa12d609493c9728cb6fe84967a2a1472c4ab2d68603f3b14799e24db26d"
+    },
+    {
+      "id": "chord_trio",
+      "names": {
+        "zh": "和弦三重奏",
+        "en": "Chord Trio",
+        "ar": "ثلاثي الأوتار",
+        "de": "Akkord-Trio",
+        "es": "Trío de acordes",
+        "hi": "कॉर्ड तिकड़ी",
+        "ja": "和音トリオ",
+        "ko": "화음 트리오",
+        "pt": "Trio de acordes",
+        "ru": "Аккордовое трио"
+      },
+      "categoryId": "sound_sprites",
+      "archive": "mascot/chord_trio.zip",
+      "preview": "mascot/chord_trio-cover.webp",
+      "sha256": "5503c393988b5f4ed83647fac22792212533665a41707827ef70f28c6504aa28"
+    },
+    {
+      "id": "gliss_ribbon",
+      "names": {
+        "zh": "滑音丝带",
+        "en": "Glissando Ribbon",
+        "ar": "شريط النغم",
+        "de": "Glissando-Band",
+        "es": "Cinta glissando",
+        "hi": "ग्लिसांडो रिबन",
+        "ja": "グリッサンドリボン",
+        "ko": "글리산도 리본",
+        "pt": "Fita de glissando",
+        "ru": "Лента глиссандо"
+      },
+      "categoryId": "sound_sprites",
+      "archive": "mascot/gliss_ribbon.zip",
+      "preview": "mascot/gliss_ribbon-cover.webp",
+      "sha256": "b842c865036096e0c6813dde3d3b412601d584e625556c2dc9d5eda8ff2ad0d1"
+    },
+    {
+      "id": "rest_bug",
+      "names": {
+        "zh": "休止符瞌睡虫",
+        "en": "Sleepy Rest",
+        "ar": "يرقة السكتة",
+        "de": "Pausenschläfer",
+        "es": "Silencio dormilón",
+        "hi": "ऊँघता विराम",
+        "ja": "おやすみ休符",
+        "ko": "졸린 쉼표",
+        "pt": "Pausa sonolenta",
+        "ru": "Сонная пауза"
+      },
+      "categoryId": "sound_sprites",
+      "archive": "mascot/rest_bug.zip",
+      "preview": "mascot/rest_bug-cover.webp",
+      "sha256": "5938bd86a35a500b23ed47cef952d93cfa49ef73c853cee33ad043ba77e48c34"
+    },
+    {
+      "id": "harbor_keeper",
+      "names": {
+        "zh": "灯塔守望员",
+        "en": "Lighthouse Keeper",
+        "ar": "حارس المنارة",
+        "de": "Leuchtturmwart",
+        "es": "Guardafaro",
+        "hi": "प्रकाशस्तंभ प्रहरी",
+        "ja": "灯台守",
+        "ko": "등대지기",
+        "pt": "Faroleiro",
+        "ru": "Смотритель маяка"
+      },
+      "categoryId": "tide_friends",
+      "archive": "mascot/harbor_keeper.zip",
+      "preview": "mascot/harbor_keeper-cover.webp",
+      "sha256": "82630f63bdb21d7afef63330610dfcabc6a711cb5a98d5b5057770cad0b2cbfa"
+    },
+    {
+      "id": "jelly_parasol",
+      "names": {
+        "zh": "海月伞舞者",
+        "en": "Moon Jelly Dancer",
+        "ar": "راقصة مظلة القنديل",
+        "de": "Quallenschirm-Tänzerin",
+        "es": "Bailarina medusa",
+        "hi": "जेली छतरी नर्तकी",
+        "ja": "海月の傘踊り子",
+        "ko": "해파리 우산 무희",
+        "pt": "Bailarina da água-viva",
+        "ru": "Танцовщица с медузой"
+      },
+      "categoryId": "tide_friends",
+      "archive": "mascot/jelly_parasol.zip",
+      "preview": "mascot/jelly_parasol-cover.webp",
+      "sha256": "8df4d527bac68742f40351870cf4500a7af46d7924dfce9985746d1384db1f49"
+    },
+    {
+      "id": "shell_courier",
+      "names": {
+        "zh": "贝壳邮递员",
+        "en": "Seashell Courier",
+        "ar": "ساعي بريد الأصداف",
+        "de": "Muschelkurier",
+        "es": "Correo de conchas",
+        "hi": "सीपी डाकिया",
+        "ja": "貝がら郵便屋",
+        "ko": "조개 우편배달부",
+        "pt": "Correio das conchas",
+        "ru": "Ракушечный почтальон"
+      },
+      "categoryId": "tide_friends",
+      "archive": "mascot/shell_courier.zip",
+      "preview": "mascot/shell_courier-cover.webp",
+      "sha256": "84cd68bc236584cd451c5f16d136ce26bf6b6830b28898bb08893683339dc11c"
+    },
+    {
+      "id": "orca_idol",
+      "names": {
+        "zh": "逆潮主唱",
+        "en": "Orca Idol",
+        "ar": "نجمة الأوركا",
+        "de": "Orka-Idol",
+        "es": "Ídolo orca",
+        "hi": "ऑर्का गायिका",
+        "ja": "シャチの歌姫",
+        "ko": "범고래 아이돌",
+        "pt": "Ídolo orca",
+        "ru": "Косатка-вокалистка"
+      },
+      "categoryId": "whale_girls",
+      "archive": "mascot/orca_idol.zip",
+      "preview": "mascot/orca_idol-cover.webp",
+      "sha256": "c755e7b8cf24acfc26796436809d3a9b66b4fdcdf63e071de93f0ed3ac7d8932"
+    },
+    {
+      "id": "moon_beluga",
+      "names": {
+        "zh": "白夜巫女",
+        "en": "Moonlit Beluga",
+        "ar": "كاهنة الحوت الأبيض",
+        "de": "Mond-Beluga",
+        "es": "Beluga lunar",
+        "hi": "चाँदनी बेलूगा",
+        "ja": "白夜の巫女",
+        "ko": "백야의 무녀",
+        "pt": "Beluga lunar",
+        "ru": "Лунная белуха"
+      },
+      "categoryId": "whale_girls",
+      "archive": "mascot/moon_beluga.zip",
+      "preview": "mascot/moon_beluga-cover.webp",
+      "sha256": "610bf9157424d06a0116e1e6ffd2aacac12249cc0743d53bb03e38a63b2b21a1"
+    },
+    {
+      "id": "star_humpback",
+      "names": {
+        "zh": "星图术士",
+        "en": "Starchart Mage",
+        "ar": "ساحرة النجوم",
+        "de": "Sternkartenmagierin",
+        "es": "Maga estelar",
+        "hi": "तारा जादूगरनी",
+        "ja": "星図の魔法使い",
+        "ko": "성도 마법사",
+        "pt": "Maga estelar",
+        "ru": "Звёздная волшебница"
+      },
+      "categoryId": "whale_girls",
+      "archive": "mascot/star_humpback.zip",
+      "preview": "mascot/star_humpback-cover.webp",
+      "sha256": "a094dcb57e6609147aaf29d1606dad6c20e7310ded4e33292fd7ba00e0208fc1"
+    },
+    {
+      "id": "neon_blue_whale",
+      "names": {
+        "zh": "霓虹潜航员",
+        "en": "Neon Diver",
+        "ar": "غواصة النيون",
+        "de": "Neontaucherin",
+        "es": "Buceadora neón",
+        "hi": "नियॉन गोताखोर",
+        "ja": "ネオン潜航士",
+        "ko": "네온 잠항사",
+        "pt": "Mergulhadora neon",
+        "ru": "Неоновая ныряльщица"
+      },
+      "categoryId": "whale_girls",
+      "archive": "mascot/neon_blue_whale.zip",
+      "preview": "mascot/neon_blue_whale-cover.webp",
+      "sha256": "f5e7a5457ef331b8c942145a459dd417086721e61540c6c8da8f857e0172a8ce"
+    },
+    {
+      "id": "coral_gray_whale",
+      "names": {
+        "zh": "珊瑚舞姬",
+        "en": "Coral Dancer",
+        "ar": "راقصة المرجان",
+        "de": "Korallentänzerin",
+        "es": "Bailarina de coral",
+        "hi": "मूंगा नर्तकी",
+        "ja": "珊瑚の踊り子",
+        "ko": "산호 무희",
+        "pt": "Dançarina de coral",
+        "ru": "Коралловая танцовщица"
+      },
+      "categoryId": "whale_girls",
+      "archive": "mascot/coral_gray_whale.zip",
+      "preview": "mascot/coral_gray_whale-cover.webp",
+      "sha256": "f7c0ed6950185943299a9ad6fdeba05b7da4b42f8a2a384f1eafa597823aec00"
+    }
+  ],
+  "featuredPetIds": [
+    "accordion",
+    "vinyl_player"
+  ]
+}
