@@ -1,7 +1,76 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 3,
+  "catalogVersion": 4,
   "items": [
+    {
+      "id": "midnight_sapphire",
+      "name": "Midnight Sapphire",
+      "kind": "style",
+      "renderer": "vinyl",
+      "category": "vinyl",
+      "version": 1,
+      "parameters": {
+        "showCover": true,
+        "coverShape": "circle",
+        "rotationX": 54.0,
+        "rotationY": 0.0,
+        "rotationZ": 0.0,
+        "scaleX": 1.7,
+        "scaleY": 0.94,
+        "translationX": 0.01,
+        "translationY": -0.055,
+        "coverSize": 80.0,
+        "labelEllipse": [
+          0.5018518518518519,
+          0.5,
+          0.3296296296296296,
+          0.04871794871794872,
+          0
+        ]
+      },
+      "assets": {
+        "background": {
+          "path": "styles/midnight_sapphire/v1/background.webp",
+          "bytes": 143740,
+          "sha256": "fce148ad9b7c95e14f38e2e31ed2832918d8f6299a5f62caba5622aedd7c6a62"
+        },
+        "disc": {
+          "path": "styles/midnight_sapphire/v1/disc.webp",
+          "bytes": 12992,
+          "sha256": "8cbb920c3dce5c1ffc4f08da464bc2b1e075aea6c6c080ca7ecb647384963bab"
+        },
+        "next": {
+          "path": "styles/midnight_sapphire/v1/next.webp",
+          "bytes": 2736,
+          "sha256": "6ee665367afa5d5a5dad9767b7c781d4eafe158c44a47c52085387408e4ff9f2"
+        },
+        "pause": {
+          "path": "styles/midnight_sapphire/v1/pause.webp",
+          "bytes": 5740,
+          "sha256": "a67694936bba60721815058aad46d7b413c6e57cc4699dd78e74d049fa3e15b4"
+        },
+        "play": {
+          "path": "styles/midnight_sapphire/v1/play.webp",
+          "bytes": 5862,
+          "sha256": "7d816d626f319e54f21b3f1c2c97f9ff1b04bb602ccc8b3ecb1405058a3794df"
+        },
+        "preview": {
+          "path": "posters/midnight_sapphire/preview_6a4ce4477932f8e5.webp",
+          "bytes": 67056,
+          "sha256": "6a4ce4477932f8e5f12d0276ca15127c7908aea151d899a17480e3c887edc840"
+        },
+        "previous": {
+          "path": "styles/midnight_sapphire/v1/previous.webp",
+          "bytes": 2716,
+          "sha256": "a5e2f0b729da19a4a2404adc4b4b923396193134ee47ca0bccfffb83da300ba5"
+        }
+      },
+      "thumbnail": {
+        "path": "posters/midnight_sapphire/thumbnail_a4d497b258978425.webp",
+        "bytes": 11802,
+        "sha256": "a4d497b258978425dfccc0ef37c0ec5ae138a4ce1a671cbced3e1ef8cc3e5d41"
+      }
+    },
     {
       "id": "vibrant_splash",
       "name": "Vibrant Splash",
