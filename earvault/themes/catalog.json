@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 2,
+  "catalogVersion": 3,
   "items": [
     {
       "id": "vibrant_splash",
@@ -35,15 +35,20 @@
           "sha256": "d8040da16fa114a7a68ba466121f9ce75f7abe7204eb95926b07b23d80b51b72"
         },
         "preview": {
-          "path": "styles/vibrant_splash/v1/preview.webp",
-          "bytes": 116304,
-          "sha256": "b9327351ef263d8cf5dec5e84a732c812c511341b86c669b2e8119ef5c538a19"
+          "path": "posters/vibrant_splash/preview_68d7b7e0d05dad15.webp",
+          "bytes": 147958,
+          "sha256": "68d7b7e0d05dad15a288f7d96b3095001db730f9de5559916dbb38bbe038c9a9"
         },
         "previous": {
           "path": "styles/vibrant_splash/v1/previous.webp",
           "bytes": 2504,
           "sha256": "b9b5d78456edaef82ba10cfcc8b4cb38e88ab36dff5f92608e5962d0e5152fb4"
         }
+      },
+      "thumbnail": {
+        "path": "posters/vibrant_splash/thumbnail_a271e7a35e89875c.webp",
+        "bytes": 22432,
+        "sha256": "a271e7a35e89875c07288c11e5abeea81ff42891a08e44a530c3bf130f047fcf"
       }
     },
     {
@@ -92,15 +97,20 @@
           "sha256": "2f9deab17cd7ad8379448e804e3679a94448a60ada4bc51d9ef262c8a924cd8f"
         },
         "preview": {
-          "path": "styles/colorful_frenzy/v1/preview.png",
-          "bytes": 972586,
-          "sha256": "a10478c6a2b8d36afeaeeaa317b3b1c7072c1f01513a175baf2df38700d6f747"
+          "path": "posters/colorful_frenzy/preview_0c01f7b8d10a8c5f.webp",
+          "bytes": 95110,
+          "sha256": "0c01f7b8d10a8c5f74d683e59a8a1f3e9ec9478f8f56a82cc338d430910a1b01"
         },
         "previous": {
           "path": "styles/colorful_frenzy/v1/previous.webp",
           "bytes": 10684,
           "sha256": "554433ec57543f89ec3a0e921cd4d0976840113f91637eed62084d2f597079c7"
         }
+      },
+      "thumbnail": {
+        "path": "posters/colorful_frenzy/thumbnail_e89274b3387f1bb8.webp",
+        "bytes": 14082,
+        "sha256": "e89274b3387f1bb835057e5c66b7a4dfcb3f43e8096c0ec9b35ec347a35465ac"
       }
     },
     {
@@ -149,15 +159,20 @@
           "sha256": "d45206cf67fbc04c5654220695df2af269c9a019a6fcafc224f1962f4f83ddf8"
         },
         "preview": {
-          "path": "styles/rose_vinyl/v1/preview.png",
-          "bytes": 843934,
-          "sha256": "96fbcd8af83c4aa993cb3647e99a22c29131950ba5698d65091e0c6b9d8b3891"
+          "path": "posters/rose_vinyl/preview_f14b78450487ead8.webp",
+          "bytes": 74036,
+          "sha256": "f14b78450487ead8f7cd09e900c2932d105e41fffa2332aa5a59cd21b807b06d"
         },
         "previous": {
           "path": "styles/rose_vinyl/v1/previous.webp",
           "bytes": 2216,
           "sha256": "226dd5df4967a8089d1a2cd79660753a4275ebef7857770ad9f059f852e30613"
         }
+      },
+      "thumbnail": {
+        "path": "posters/rose_vinyl/thumbnail_6491ef028ba51482.webp",
+        "bytes": 12624,
+        "sha256": "6491ef028ba514828f58faa56d40c5fe8146c1f52d3332eb8e0259a42907f4e1"
       }
     },
     {
@@ -193,15 +208,20 @@
           "sha256": "7a0def95742df236537d79b0c6fdbc146b8cbc864f314aff69eab087d59c50ef"
         },
         "preview": {
-          "path": "styles/petal_groove/v1/preview.webp",
-          "bytes": 100446,
-          "sha256": "42c134b79d51e722c81c5576122f0129ba9ff68ae794ad87b0873da5d7c70ae4"
+          "path": "posters/petal_groove/preview_7e1456ea004c31ff.webp",
+          "bytes": 140374,
+          "sha256": "7e1456ea004c31ffc3c7415abe58c595722a11aede5b15186f57448cf31ca5a3"
         },
         "previous": {
           "path": "styles/petal_groove/v1/previous.webp",
           "bytes": 7022,
           "sha256": "9296c4f277ab49a350b89692afebea77838b2ea945e698f74cb7c34994f79386"
         }
+      },
+      "thumbnail": {
+        "path": "posters/petal_groove/thumbnail_967ee03e459572e3.webp",
+        "bytes": 18008,
+        "sha256": "967ee03e459572e38a11bd7dcd2d14033d37399543a6c532d6d387f028574427"
       }
     },
     {
@@ -237,15 +257,20 @@
           "sha256": "0169657ef556cd86af8bf11d89b71739d84bd8db05688b8dfd67ec3d001b36d8"
         },
         "preview": {
-          "path": "styles/forest_voice/v1/preview.webp",
-          "bytes": 56946,
-          "sha256": "1f71743324d136b1997e06e069bbf394f79ef538cc4f3fbedbe6018e471613ce"
+          "path": "posters/forest_voice/preview_27b798e27854135f.webp",
+          "bytes": 102798,
+          "sha256": "27b798e27854135f212bb04e4da1046757e1f8a6c0e09e05ae084e57b0dad14a"
         },
         "previous": {
           "path": "styles/forest_voice/v1/previous.webp",
           "bytes": 2316,
           "sha256": "ea31060a01e59b4f9361c54b63faa90947e6601d06f6d4ae75bbe04a7b9a34cf"
         }
+      },
+      "thumbnail": {
+        "path": "posters/forest_voice/thumbnail_c45b266aaa796842.webp",
+        "bytes": 16138,
+        "sha256": "c45b266aaa7968423fcd2ef723c1c7230daa5860d76491a8cd2926a947a9a9cc"
       }
     },
     {
@@ -281,15 +306,20 @@
           "sha256": "3fe495d66c09aa91fd728de896cecd0d5635acb8e5c82ba2427f86b6d640a666"
         },
         "preview": {
-          "path": "styles/winter_cottage/v1/preview.webp",
-          "bytes": 55468,
-          "sha256": "be0d781a6557f8a3471e5f2e4b6465aa2ff5cd64319c1f33ec38a81bdd471427"
+          "path": "posters/winter_cottage/preview_fc98c8a2d181d61d.webp",
+          "bytes": 69698,
+          "sha256": "fc98c8a2d181d61d90a99e624632663f0b6fd3d0483637349775ada15bf9aa00"
         },
         "previous": {
           "path": "styles/winter_cottage/v1/previous.webp",
           "bytes": 7470,
           "sha256": "9e99d377ebeca3017711fdec95ef68403f0a2dbb5b7fe91d5e9cd8cec8c4db94"
         }
+      },
+      "thumbnail": {
+        "path": "posters/winter_cottage/thumbnail_290b16c4f43737b2.webp",
+        "bytes": 11450,
+        "sha256": "290b16c4f43737b24db346d24339c1f1f1beab7c860649f6df11f43386fdb4b1"
       }
     },
     {
@@ -325,15 +355,20 @@
           "sha256": "52fbb179f651dc7757e27b4c91715ec7005d16169c44990a3bcdc841dd5c6b32"
         },
         "preview": {
-          "path": "styles/glacier_aurora/v1/preview.webp",
-          "bytes": 67226,
-          "sha256": "c137bd7d598aca7921b0bb26045621c03d07022122a34514cebc8c5a4d309bf2"
+          "path": "posters/glacier_aurora/preview_8d4053262993c32e.webp",
+          "bytes": 90280,
+          "sha256": "8d4053262993c32e316cc11c834eb47fb5eeec517acc6e208eb7513e4602066b"
         },
         "previous": {
           "path": "styles/glacier_aurora/v1/previous.webp",
           "bytes": 3998,
           "sha256": "7ab7fad36ab9a4f6ca37ac019fabfd571a27f141318a9a6f656fc379253cab11"
         }
+      },
+      "thumbnail": {
+        "path": "posters/glacier_aurora/thumbnail_b7b2fd654931637d.webp",
+        "bytes": 11978,
+        "sha256": "b7b2fd654931637dfddaa178044b7d5f1af3c2684a78cc55202a1255b932f43b"
       }
     },
     {
@@ -382,15 +417,20 @@
           "sha256": "4fb516a76115856bded7a9a7aebedef4167dc4efe3041698761d79b15c420943"
         },
         "preview": {
-          "path": "styles/from_saturn/v1/preview.png",
-          "bytes": 1160997,
-          "sha256": "ca990bf897d94d3494a39caf700681883c703c56988ce70677ed482bdf799b9c"
+          "path": "posters/from_saturn/preview_02c8d5ed53415bfb.webp",
+          "bytes": 104348,
+          "sha256": "02c8d5ed53415bfbf6995980948eb39c964eea6eab6f52ac9853f3a3cfc52d8f"
         },
         "previous": {
           "path": "styles/from_saturn/v1/previous.webp",
           "bytes": 5128,
           "sha256": "b7364f25e2c7cb88791e65b385f9cf54a71b0e110eb1648b86fe15bed5e905e3"
         }
+      },
+      "thumbnail": {
+        "path": "posters/from_saturn/thumbnail_d4279adf0609cba4.webp",
+        "bytes": 12138,
+        "sha256": "d4279adf0609cba468c579873961e5c67101b7e5a030d5db07d3c126165f085d"
       }
     },
     {
@@ -439,15 +479,20 @@
           "sha256": "42c355d5da6a59862962c77387df17bac35bf67cef56260af5de21b14503c7f2"
         },
         "preview": {
-          "path": "styles/coral_sky/v1/preview.png",
-          "bytes": 990042,
-          "sha256": "e479f33bc3ab57efd5dac1fd4f9fd8e4adcbc7e97887f400fb464cd51a0814e9"
+          "path": "posters/coral_sky/preview_9dfc230b773d9b2c.webp",
+          "bytes": 64366,
+          "sha256": "9dfc230b773d9b2cea43ff4e5f2c75acb8c482d388511d19f11d3aa793bb6367"
         },
         "previous": {
           "path": "styles/coral_sky/v1/previous.webp",
           "bytes": 3098,
           "sha256": "fba8f98e713ed1d0d411df750eb0084034a9fe18b07cddb4f9187eca72552696"
         }
+      },
+      "thumbnail": {
+        "path": "posters/coral_sky/thumbnail_4c5149a7e166cccd.webp",
+        "bytes": 10452,
+        "sha256": "4c5149a7e166cccdc9ca468a965a20ffe151281b0f6ecffdacc16132a2869cea"
       }
     },
     {
@@ -491,15 +536,20 @@
           "sha256": "ec5e22176b92850e5a3bf46a54e3d3b9198424c2a645c6645817516b30776198"
         },
         "preview": {
-          "path": "styles/aqua_grid/v1/preview.png",
-          "bytes": 1025467,
-          "sha256": "fe1e90c3166aa40946b69720fd4cad9ff93353c9fcc953d0447e56fe8e90324f"
+          "path": "posters/aqua_grid/preview_5899c2b16bdfde45.webp",
+          "bytes": 79686,
+          "sha256": "5899c2b16bdfde453cf182975f0f8919238336cbafd8693d6bb6b14909721723"
         },
         "previous": {
           "path": "styles/aqua_grid/v1/previous.webp",
           "bytes": 2128,
           "sha256": "abce76307f6f071b9eb97463968c80c107bd622606cb63d4b9620492dd87452f"
         }
+      },
+      "thumbnail": {
+        "path": "posters/aqua_grid/thumbnail_ab4dc6c04294ef9b.webp",
+        "bytes": 13626,
+        "sha256": "ab4dc6c04294ef9b5b28f2d6e8211d08cac4dfc44d2f56313d4552c9946bc5c5"
       }
     },
     {
@@ -535,15 +585,20 @@
           "sha256": "e4bff2bd5b1ccafbaa9e989e45338d178a6d39140915c20f526e7d5ef3ef0890"
         },
         "preview": {
-          "path": "styles/cybernetics/v1/preview.webp",
-          "bytes": 50692,
-          "sha256": "760e02a9e82dd487d61fce93be6315a56213df5ca29d4c68fbe3daa653f9513e"
+          "path": "posters/cybernetics/preview_93782a8cb4fbb308.webp",
+          "bytes": 89082,
+          "sha256": "93782a8cb4fbb30874c13e73a3ca379d66d7007d1cecaabafdf6eec7f81c715c"
         },
         "previous": {
           "path": "styles/cybernetics/v1/previous.webp",
           "bytes": 2722,
           "sha256": "907bf5a79a7ea9941f4eca53dec6c272579545a978e743d9f18ec516a66e71e2"
         }
+      },
+      "thumbnail": {
+        "path": "posters/cybernetics/thumbnail_d14e59a80ca2af75.webp",
+        "bytes": 14346,
+        "sha256": "d14e59a80ca2af75fd99d9b3db37f05940ea2fe81d5b08152c67aae13d3a4392"
       }
     },
     {
@@ -579,15 +634,20 @@
           "sha256": "1ccdfcd21edb3a3b1539c0428d1bbb5ad8f1cd6a7d92987e31e6bf034b259378"
         },
         "preview": {
-          "path": "styles/guitar_girl/v1/preview.webp",
-          "bytes": 55208,
-          "sha256": "59da244ac2e224ec3c8b08ed73bc6eeeb35c1bd257f90eeff281cabffd21abb9"
+          "path": "posters/guitar_girl/preview_9fd719c81c90603e.webp",
+          "bytes": 72050,
+          "sha256": "9fd719c81c90603e1e8acf7ee3ff5982696a11ef071b02c4bf2b702944fd4ba3"
         },
         "previous": {
           "path": "styles/guitar_girl/v1/previous.webp",
           "bytes": 3324,
           "sha256": "2de592655537ecaaa93e6a296e2c3fcf46ad99197188d4898e0157adc36d8d56"
         }
+      },
+      "thumbnail": {
+        "path": "posters/guitar_girl/thumbnail_6acefbd6921f9c5b.webp",
+        "bytes": 14058,
+        "sha256": "6acefbd6921f9c5bb2a830aaf88fef261cdf65927c111d9758e25b43a68d2671"
       }
     },
     {
@@ -623,15 +683,20 @@
           "sha256": "31c36177535edc6bb2bb45c9d1dddc4d2b0d9a031b768f9c3b1ae705e576e436"
         },
         "preview": {
-          "path": "styles/kitty_spin/v1/preview.webp",
-          "bytes": 158624,
-          "sha256": "8f38551fe168a7968c3354ba220068bd74763575f3238f5854e636fd3b53612d"
+          "path": "posters/kitty_spin/preview_59090a2607395e27.webp",
+          "bytes": 106084,
+          "sha256": "59090a2607395e271de90fcbce370e2b82f20fb31f07700c3e84f35d43706451"
         },
         "previous": {
           "path": "styles/kitty_spin/v1/previous.webp",
           "bytes": 1570,
           "sha256": "916c88c7858b4bce8c8accdb30577393cd4fcae66fa0716f298af8f558302807"
         }
+      },
+      "thumbnail": {
+        "path": "posters/kitty_spin/thumbnail_512d08bb000fea34.webp",
+        "bytes": 10844,
+        "sha256": "512d08bb000fea34bd9c99aee99bbafbba7a78ec7c531a4943ae81c920269be5"
       }
     },
     {
@@ -675,15 +740,20 @@
           "sha256": "73efe5283be19cbb7d8a50a9d73275571b6f103aca5cc0e9888015e1ea149ff5"
         },
         "preview": {
-          "path": "styles/cityscape/v1/preview.png",
-          "bytes": 1038495,
-          "sha256": "2cb3e250ab60016d1fb8ea838f0c2712667450907be317c37f71362577efd7f4"
+          "path": "posters/cityscape/preview_2e78cce012210dea.webp",
+          "bytes": 74666,
+          "sha256": "2e78cce012210dea9845deb5266ae6885295eedce7a5c7bcabbd72d5a8822dcd"
         },
         "previous": {
           "path": "styles/cityscape/v1/previous.webp",
           "bytes": 4418,
           "sha256": "62c1369b1c0cffbe7dd4bcf56e9382e83eec1aa1408195eedadd4972d0b7557e"
         }
+      },
+      "thumbnail": {
+        "path": "posters/cityscape/thumbnail_37c1c96ebf04dc19.webp",
+        "bytes": 12062,
+        "sha256": "37c1c96ebf04dc1963b3f5f71bb2d735c6d73c3dbf414f1c500219a378dbf8eb"
       }
     },
     {
@@ -719,15 +789,20 @@
           "sha256": "48257de6d600ba5631318a5ecd6a78b8e3a2f2e42f295fdc3cb37e208a2499f9"
         },
         "preview": {
-          "path": "styles/lavender_field/v1/preview.webp",
-          "bytes": 59194,
-          "sha256": "58cb41b9cc74815ecdeae5a4ad642628aaaa4941e5e0a54409cf5572b43050ca"
+          "path": "posters/lavender_field/preview_9cb84259c45c1860.webp",
+          "bytes": 118232,
+          "sha256": "9cb84259c45c186030ff7cfe98af3f0fe95627ba1c0701fb9bc29293aa3363ea"
         },
         "previous": {
           "path": "styles/lavender_field/v1/previous.webp",
           "bytes": 2324,
           "sha256": "9ab188ca56abcf12ef2849004f87929a9c9de6d6ac280e84e1c116fa30b1473d"
         }
+      },
+      "thumbnail": {
+        "path": "posters/lavender_field/thumbnail_b7fb9defb82b3d61.webp",
+        "bytes": 16922,
+        "sha256": "b7fb9defb82b3d61e47adcfe0652c9ff81a74b4df827d527e12d202003fffe3c"
       }
     },
     {
@@ -771,15 +846,20 @@
           "sha256": "fca18105d33be7fdbf519c01d509beb1bc7d007b3bc908a0b286838eeeb68e26"
         },
         "preview": {
-          "path": "styles/music_lab/v1/preview.png",
-          "bytes": 2332802,
-          "sha256": "af9faa6e8152bf5bf5df7c2e3989d60c0cdeecb5bd6dc10dba7b884996837bba"
+          "path": "posters/music_lab/preview_1b8513bd598ec6c9.webp",
+          "bytes": 136276,
+          "sha256": "1b8513bd598ec6c9c36320eb6c090e37b628c8ecc275ef12dacd85e65b564c8d"
         },
         "previous": {
           "path": "styles/music_lab/v1/previous.webp",
           "bytes": 2784,
           "sha256": "f4e88e90ea8bcce53a3ef174929b8bdcb3f36db5656c3415d413fd69d1e2d33a"
         }
+      },
+      "thumbnail": {
+        "path": "posters/music_lab/thumbnail_12d1bbc832f21383.webp",
+        "bytes": 16804,
+        "sha256": "12d1bbc832f21383a6d6695eeb742f45e16db79550caf4b91794a66e3dd6c0f2"
       }
     },
     {
@@ -823,15 +903,20 @@
           "sha256": "109e973e33af8a5b6d770c7060beb6f9f4e7caeab8ee6e912f8d61a25bef8ec2"
         },
         "preview": {
-          "path": "styles/embrace_music/v1/preview.png",
-          "bytes": 1529133,
-          "sha256": "8d38d968e39218bdc159d44fe8c34dff200b2b23714c19ee591192b1b35a58a1"
+          "path": "posters/embrace_music/preview_190bcbb4311c30dd.webp",
+          "bytes": 55618,
+          "sha256": "190bcbb4311c30dd5819a70cde43ff1d197718d701f27f21eaf91e911328c258"
         },
         "previous": {
           "path": "styles/embrace_music/v1/previous.webp",
           "bytes": 1804,
           "sha256": "c0759bece7b45ff82a9a17832f0e78b0ab592b54a553ce62854e4d8b253ad766"
         }
+      },
+      "thumbnail": {
+        "path": "posters/embrace_music/thumbnail_46bcb0a5d642a417.webp",
+        "bytes": 7104,
+        "sha256": "46bcb0a5d642a417fb99cf216857e951b745f7d7e3ac158fdb7a493906f1429f"
       }
     },
     {
@@ -867,15 +952,20 @@
           "sha256": "f262dbab649bca0369afea1ae5b855ea6b86439236792847b4418807be1093c5"
         },
         "preview": {
-          "path": "styles/dreamy_guitar/v1/preview.webp",
-          "bytes": 30028,
-          "sha256": "673a868923e6a4ce2f87d6a98b3bdb28aba7f66da73fc40ad65b5f45b810141c"
+          "path": "posters/dreamy_guitar/preview_a09ade3be845d6e9.webp",
+          "bytes": 67604,
+          "sha256": "a09ade3be845d6e98d985533d6932f8bd0d1d6b6e0a1e80666454847fda7622c"
         },
         "previous": {
           "path": "styles/dreamy_guitar/v1/previous.webp",
           "bytes": 3036,
           "sha256": "ee4a17e93b3cf1b9e023db8950f3556e6b15d79623b2cc550ddc9126113bb1f9"
         }
+      },
+      "thumbnail": {
+        "path": "posters/dreamy_guitar/thumbnail_0a4398fc8f89277e.webp",
+        "bytes": 13556,
+        "sha256": "0a4398fc8f89277e6d09ee3d9bf040f35a29147d39954a3f5f5794a871f19514"
       }
     },
     {
@@ -911,15 +1001,20 @@
           "sha256": "ae7dc11f89ca8961160b5d87b5dc8a11b75b7316692bf2387d8f1d6787b7af5a"
         },
         "preview": {
-          "path": "styles/lunar_vinyl/v1/preview.webp",
-          "bytes": 134162,
-          "sha256": "15b20caf6490097d6c357ed9626c14ef26447c4bcd4f42d692c2a1495751e18d"
+          "path": "posters/lunar_vinyl/preview_92325d2db46479e5.webp",
+          "bytes": 100438,
+          "sha256": "92325d2db46479e52011e841982075f1fab7c89dc08f863681cc88d0dc0e8e3e"
         },
         "previous": {
           "path": "styles/lunar_vinyl/v1/previous.webp",
           "bytes": 3312,
           "sha256": "0729b8947b5ecda6e7cfcfb664b6f2679eeafd5712087ec4a2004ac7ab06cb98"
         }
+      },
+      "thumbnail": {
+        "path": "posters/lunar_vinyl/thumbnail_b2c4f88af572c2a4.webp",
+        "bytes": 14888,
+        "sha256": "b2c4f88af572c2a41ec4a6afa37f8403486ef1254a98385c3b5e24ab0d3c5b5b"
       }
     },
     {
@@ -968,15 +1063,20 @@
           "sha256": "75feaaeaa4db1f6a46cde40a501a21aab26648fd1724b8a52944bf595f31a291"
         },
         "preview": {
-          "path": "styles/sonic_boom/v1/preview.png",
-          "bytes": 1982796,
-          "sha256": "a15bb787805d5abb1ab9d2664296bbca07cee79271f6996caf40856320b10f52"
+          "path": "posters/sonic_boom/preview_1ed40cf62527d3c5.webp",
+          "bytes": 102772,
+          "sha256": "1ed40cf62527d3c580be2ac2b37d174d1171c5639029a547448ed2cf500ffd57"
         },
         "previous": {
           "path": "styles/sonic_boom/v1/previous.webp",
           "bytes": 4480,
           "sha256": "d41a3774fafec50a69be203b37788133dfa95fb28ff23f3b0876826bf02f24d6"
         }
+      },
+      "thumbnail": {
+        "path": "posters/sonic_boom/thumbnail_94c1e47e618ed4bd.webp",
+        "bytes": 15064,
+        "sha256": "94c1e47e618ed4bdc7bc0a29b4c298c57a25f9777bbc18b43047fd88278fea8e"
       }
     },
     {
@@ -1012,15 +1112,20 @@
           "sha256": "fa430bc35e98c36017d1bbb60d5a9e968982f7e9af9d224c0b94226b65381787"
         },
         "preview": {
-          "path": "styles/deep_space/v1/preview.webp",
-          "bytes": 105630,
-          "sha256": "cabab66c36f37865143effc6fa0b36cff2a532ded380ca382a99728162dddcab"
+          "path": "posters/deep_space/preview_ea71f904b7c6a0ce.webp",
+          "bytes": 63722,
+          "sha256": "ea71f904b7c6a0ce904a746d5d30d4f4684dff31d32b82dbe10845501bd14016"
         },
         "previous": {
           "path": "styles/deep_space/v1/previous.webp",
           "bytes": 3414,
           "sha256": "4aacfebe1a998c38aa07b9f8ab5870b4bc480bc6d2a6e2f5e0b1fa3dbbc9ee71"
         }
+      },
+      "thumbnail": {
+        "path": "posters/deep_space/thumbnail_68cf4413e18bf357.webp",
+        "bytes": 9560,
+        "sha256": "68cf4413e18bf357340c82abc430759620f918581ebc1869825887abe188c70f"
       }
     },
     {
@@ -1069,15 +1174,20 @@
           "sha256": "104644293e44b85382edbe1423be71ec197621b5cbeccc218fd909b209e73ee9"
         },
         "preview": {
-          "path": "styles/music_planet/v1/preview.png",
-          "bytes": 1757137,
-          "sha256": "0877925cf4e6ae8efc235b24e241b1bbfc96a81d085b857a53d419fe2328e2d1"
+          "path": "posters/music_planet/preview_0b34454650181500.webp",
+          "bytes": 94290,
+          "sha256": "0b344546501815005d5e10d4f0a7ebfddac5318bd938982eb01cac7c7d33f253"
         },
         "previous": {
           "path": "styles/music_planet/v1/previous.webp",
           "bytes": 3776,
           "sha256": "c23e98d0417fe1e4e81075ecb62fe70fac3a54550bdc5462f4c678525f9474b6"
         }
+      },
+      "thumbnail": {
+        "path": "posters/music_planet/thumbnail_1628029a28c72f90.webp",
+        "bytes": 14798,
+        "sha256": "1628029a28c72f902cd9b880728be1b90e838f6e95039821f1263abfad77a523"
       }
     },
     {
@@ -1126,15 +1236,20 @@
           "sha256": "4e9427996b5773802f9e56757a259feaf8a57167e14f8613048b25f7bea5363b"
         },
         "preview": {
-          "path": "styles/starlight_city/v1/preview.png",
-          "bytes": 2154507,
-          "sha256": "0e693ffcaa1b9394567d2776d8cffa51541690eb32a26fcf0b7001785a5a9b1a"
+          "path": "posters/starlight_city/preview_1305349bfa679485.webp",
+          "bytes": 111406,
+          "sha256": "1305349bfa679485202ca5d7d42a8ad36bc083fb509ed889bb89533318e994e9"
         },
         "previous": {
           "path": "styles/starlight_city/v1/previous.webp",
           "bytes": 2632,
           "sha256": "ec14d5c6ea97eb245e40d54785e98526579af72fb6be98cf14b76d74058323b5"
         }
+      },
+      "thumbnail": {
+        "path": "posters/starlight_city/thumbnail_2e2bd490628aea8c.webp",
+        "bytes": 16070,
+        "sha256": "2e2bd490628aea8c19f6291c35c249099828c69d8427618a10c7105400a67957"
       }
     },
     {
@@ -1170,15 +1285,20 @@
           "sha256": "72340581f3202d4e0b7cbd716f812d34841cf8f7900892e04c630518c421af47"
         },
         "preview": {
-          "path": "styles/vinyl_sunset/v1/preview.webp",
-          "bytes": 37938,
-          "sha256": "c4bbfc307f082288ca0e7d5bc438c330b320d282469951d2ff66c69423d3f8bf"
+          "path": "posters/vinyl_sunset/preview_3f63a8aa41cffbe0.webp",
+          "bytes": 54192,
+          "sha256": "3f63a8aa41cffbe073368ae483d31acd827d23a556fe237bd0c492528c327cff"
         },
         "previous": {
           "path": "styles/vinyl_sunset/v1/previous.webp",
           "bytes": 2522,
           "sha256": "e244df00d05849a8465c7e67e1255dc160c6092faec2c3fb817a66e21fc41e7d"
         }
+      },
+      "thumbnail": {
+        "path": "posters/vinyl_sunset/thumbnail_7b0979d6273fb7b2.webp",
+        "bytes": 8556,
+        "sha256": "7b0979d6273fb7b2e30eb9ae3d2aa9c60f046ac68f64d8aeb7bcd7841fe7b5f4"
       }
     },
     {
@@ -1222,15 +1342,20 @@
           "sha256": "5b89362dfbcd0f97cee0721c1749948420d5b58ab6807ce9d78b6c13f2a2f35e"
         },
         "preview": {
-          "path": "styles/crimson_moon/v1/preview.png",
-          "bytes": 1891566,
-          "sha256": "c3092c7eb4c715cccb893d3af1563ff46c48922143e64c1b86906d62ca1af858"
+          "path": "posters/crimson_moon/preview_c87818620305b798.webp",
+          "bytes": 92692,
+          "sha256": "c87818620305b798479404d41f6765c7b2e9a0b7e3a6a5b6d7c7f2678580b7c7"
         },
         "previous": {
           "path": "styles/crimson_moon/v1/previous.webp",
           "bytes": 4222,
           "sha256": "aff05e5103ebabfc424ecc0279dd0885032cf5fa0c7c171bdbf9a0f204f7fd5f"
         }
+      },
+      "thumbnail": {
+        "path": "posters/crimson_moon/thumbnail_48759c1e128a6590.webp",
+        "bytes": 9538,
+        "sha256": "48759c1e128a6590b5db04667175863dbcfbc4654e546d472d9e8ad0fa2fde68"
       }
     },
     {
@@ -1274,15 +1399,20 @@
           "sha256": "adacf26513a67013ef187b8b3925718f4a4e5f01a8df19f37a9332fcc5cb7456"
         },
         "preview": {
-          "path": "styles/electric_night/v1/preview.png",
-          "bytes": 2039890,
-          "sha256": "9650779d086611ca7bda5ab137228c8281ab370b936ca9b849c97ee0f32ab3ec"
+          "path": "posters/electric_night/preview_fd802892ef5ecc83.webp",
+          "bytes": 116328,
+          "sha256": "fd802892ef5ecc83bf83e38cbdb76c8a7e77aa812d07a45b88724985149d589d"
         },
         "previous": {
           "path": "styles/electric_night/v1/previous.webp",
           "bytes": 5780,
           "sha256": "249b57d8ddf43dea0eda7a0d4ed94162d1816b73e0030dfa226d643b97c8278d"
         }
+      },
+      "thumbnail": {
+        "path": "posters/electric_night/thumbnail_fd2fe72b5b58ad3e.webp",
+        "bytes": 15674,
+        "sha256": "fd2fe72b5b58ad3efc772c6fc9bc764bd49e65ac828bcb303b9622760facf7f5"
       }
     },
     {
@@ -1318,15 +1448,20 @@
           "sha256": "4170786cee5bdf3effb7bb8b201e43de5004511bc16cad16c4b15c17702ae5f3"
         },
         "preview": {
-          "path": "styles/pumpkin_spell/v1/preview.webp",
-          "bytes": 62814,
-          "sha256": "26f7d63696ee5626bb4ef83ced98e7e283eb5a8fbf949510cad98f6efdd8e936"
+          "path": "posters/pumpkin_spell/preview_3e791b26d29ceb74.webp",
+          "bytes": 79454,
+          "sha256": "3e791b26d29ceb74a50128c849f68a82933680485e9308d6c37cdcce2a882a94"
         },
         "previous": {
           "path": "styles/pumpkin_spell/v1/previous.webp",
           "bytes": 3286,
           "sha256": "22c3bcabcf4ae790663e2cd2afa79bf635c5f7670f5a5525ef94b141941405ac"
         }
+      },
+      "thumbnail": {
+        "path": "posters/pumpkin_spell/thumbnail_f2744edaa33511f1.webp",
+        "bytes": 14392,
+        "sha256": "f2744edaa33511f1e40aab3d63e38ca2c65c7a80072a286f20214265dd2fc5b1"
       }
     },
     {
@@ -1370,15 +1505,20 @@
           "sha256": "f859f79eeeeffd8b9ea6a72029f975e3a335bc61da706b28d3719509c2ec9548"
         },
         "preview": {
-          "path": "styles/trick_or_treat/v1/preview.png",
-          "bytes": 592294,
-          "sha256": "5573fc337dd3d1eb1b56c6fe763298788fc3dbd0d23ea7f0435a4fc3c0a60b0b"
+          "path": "posters/trick_or_treat/preview_4e6b2fa6d90e65a1.webp",
+          "bytes": 53614,
+          "sha256": "4e6b2fa6d90e65a1b447696b78599dac223ef6ca3de520f6a8e8f5a2b91a1f8b"
         },
         "previous": {
           "path": "styles/trick_or_treat/v1/previous.webp",
           "bytes": 4682,
           "sha256": "d7411e865a897e683dee4c560a59079649c08fb93a0440defc516c4c6d40a068"
         }
+      },
+      "thumbnail": {
+        "path": "posters/trick_or_treat/thumbnail_a4eba68acf153938.webp",
+        "bytes": 8348,
+        "sha256": "a4eba68acf153938835d05c262b0c46d35c215c76449025919da246bd00f2304"
       }
     },
     {
@@ -1414,15 +1554,20 @@
           "sha256": "ab9cb32073417c2c7636a558ff001129cf206f8da04a07e8dc0aa9c68bf332f6"
         },
         "preview": {
-          "path": "styles/pumpkin_patch/v1/preview.webp",
-          "bytes": 64440,
-          "sha256": "7902f8311b1161a42a54e40f94f68e194ec03eb630dddc17c2448eae2c3442d6"
+          "path": "posters/pumpkin_patch/preview_f3b9bf32e0291d13.webp",
+          "bytes": 85878,
+          "sha256": "f3b9bf32e0291d131bcbf63b9429bf2506a8abda0ae1025f39e19693c555597f"
         },
         "previous": {
           "path": "styles/pumpkin_patch/v1/previous.webp",
           "bytes": 8166,
           "sha256": "3bab6011b26e82d563f7c607c4b048dfc9b4c3d717b828697a37891511d6b6ac"
         }
+      },
+      "thumbnail": {
+        "path": "posters/pumpkin_patch/thumbnail_221118d629097c6f.webp",
+        "bytes": 13560,
+        "sha256": "221118d629097c6f26bc12600f6bd923b0b1b870cc2bb80cf8f48a7cb6aaebc4"
       }
     },
     {
@@ -1458,15 +1603,20 @@
           "sha256": "49258b087bdd32a9dab373b768bcdd5b4334681bd35bcc92945d7abc11eaa01c"
         },
         "preview": {
-          "path": "styles/pumpkin_princess/v1/preview.webp",
-          "bytes": 72070,
-          "sha256": "d55870f6583d70f37ab2e19dae4bf731ebf3c097aac0baad3ad3e1fd47edae01"
+          "path": "posters/pumpkin_princess/preview_004468a3f124c668.webp",
+          "bytes": 89904,
+          "sha256": "004468a3f124c668b654464c850bba68f9d5a8987bd76e80b3d8fb58934a5e32"
         },
         "previous": {
           "path": "styles/pumpkin_princess/v1/previous.webp",
           "bytes": 620,
           "sha256": "f66a3c9423f3853bf901e68b3061ca67c5ebccb907349efbd7ef2e9993effc56"
         }
+      },
+      "thumbnail": {
+        "path": "posters/pumpkin_princess/thumbnail_7808ecae5d36c9a9.webp",
+        "bytes": 15092,
+        "sha256": "7808ecae5d36c9a996cad825b1d4779e157f82510d90d4365acf2baf9060225f"
       }
     },
     {
@@ -1515,15 +1665,20 @@
           "sha256": "843695cf1e9064cf8c540c813a33673e6bc7af74fedc1742a0b0391387829df0"
         },
         "preview": {
-          "path": "styles/midnight_mischief/v1/preview.png",
-          "bytes": 758172,
-          "sha256": "a0c6bbaec64504b3d88fb1d5295c5c1d4cca61b3d0f50fdf10d8d8c15a9ab176"
+          "path": "posters/midnight_mischief/preview_6388df94bce06101.webp",
+          "bytes": 66130,
+          "sha256": "6388df94bce061013e01f63fb36537552452e266f5e043b37ad33b81c0df1a6a"
         },
         "previous": {
           "path": "styles/midnight_mischief/v1/previous.webp",
           "bytes": 3128,
           "sha256": "7002fb4eebcd95d7f44419964899a6cb05e6e09775b703c8f6337e7fda7c1f03"
         }
+      },
+      "thumbnail": {
+        "path": "posters/midnight_mischief/thumbnail_bfd4510ccc3185fc.webp",
+        "bytes": 10500,
+        "sha256": "bfd4510ccc3185fc8ecc7ae8c9ecdca2023c8731a54f42182120f55734d2de5b"
       }
     },
     {
