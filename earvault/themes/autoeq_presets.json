@@ -4,17 +4,17 @@
     "name": "Original Sound",
     "brand": "NONE",
     "author": "Moriafly",
-    "tag": "定制原声",
+    "tag": "Custom Original",
     "preamp_db": 0.0,
     "band_count": 0,
     "bands": []
   },
   {
     "index": 1,
-    "name": "低音 Bass",
+    "name": "Bass",
     "brand": "NONE",
     "author": "Moriafly",
-    "tag": "通用",
+    "tag": "General",
     "preamp_db": -3.4,
     "band_count": 6,
     "bands": [
@@ -52,10 +52,10 @@
   },
   {
     "index": 2,
-    "name": "清澈 Clear V2",
+    "name": "Clear V2",
     "brand": "NONE",
     "author": "Syaoran",
-    "tag": "通用",
+    "tag": "General",
     "preamp_db": -3.2,
     "band_count": 5,
     "bands": [
@@ -88,10 +88,10 @@
   },
   {
     "index": 3,
-    "name": "清澈悦耳",
+    "name": "Clear & Smooth",
     "brand": "NONE",
     "author": "Moriafly",
-    "tag": "椒盐自调",
+    "tag": "Custom EQ",
     "preamp_db": -1.5,
     "band_count": 8,
     "bands": [
@@ -320,7 +320,7 @@
     "name": "Apple AirPods Pro",
     "brand": "APPLE",
     "author": "Rtings",
-    "tag": "热门",
+    "tag": "Popular",
     "preamp_db": -6.6,
     "band_count": 10,
     "bands": [
@@ -625,7 +625,7 @@
     "name": "Moondrop Quarks",
     "brand": "MOONDROP",
     "author": "Crinacle",
-    "tag": "水月雨 夸克",
+    "tag": null,
     "preamp_db": -5.9,
     "band_count": 10,
     "bands": [
@@ -686,7 +686,7 @@
     "name": "Moondrop Spaceship",
     "brand": "MOONDROP",
     "author": "Crinacle",
-    "tag": "水月雨 银色飞船",
+    "tag": null,
     "preamp_db": -6.3,
     "band_count": 9,
     "bands": [
@@ -742,7 +742,7 @@
     "name": "Moondrop SSP",
     "brand": "MOONDROP",
     "author": "Crinacle",
-    "tag": "水月雨 SSP",
+    "tag": null,
     "preamp_db": -4.6,
     "band_count": 10,
     "bands": [
@@ -803,7 +803,7 @@
     "name": "Moondrop SSR",
     "brand": "MOONDROP",
     "author": "Crinacle",
-    "tag": "水月雨 SSR",
+    "tag": null,
     "preamp_db": -6.7,
     "band_count": 10,
     "bands": [
@@ -864,7 +864,7 @@
     "name": "Moondrop Starfield",
     "brand": "MOONDROP",
     "author": "Crinacle",
-    "tag": "水月雨 星野",
+    "tag": null,
     "preamp_db": -6.8,
     "band_count": 10,
     "bands": [
@@ -925,7 +925,7 @@
     "name": "NiceHCK Vido",
     "brand": "NICEHCK",
     "author": "Reference Audio Analyzer",
-    "tag": "原道 😭 悔恨之泪",
+    "tag": null,
     "preamp_db": -6.9,
     "band_count": 10,
     "bands": [
@@ -1164,7 +1164,7 @@
     "name": "OPPO Enco X2",
     "brand": "OPPO",
     "author": "Moriafly",
-    "tag": "椒盐自调",
+    "tag": "Custom EQ",
     "preamp_db": -5.9,
     "band_count": 8,
     "bands": [
@@ -1866,7 +1866,7 @@
     "name": "Sony WF-1000XM3",
     "brand": "SONY",
     "author": "Crinacle",
-    "tag": "优化版",
+    "tag": "Optimized",
     "preamp_db": -5.4,
     "band_count": 10,
     "bands": [
@@ -2171,7 +2171,7 @@
     "name": "TFZ Mylove 2",
     "brand": "TFZ",
     "author": "Crinacle",
-    "tag": "锦瑟香也",
+    "tag": null,
     "preamp_db": -6.8,
     "band_count": 10,
     "bands": [
