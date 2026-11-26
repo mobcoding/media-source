@@ -139,7 +139,7 @@
   },
   {
     "index": 4,
-    "name": "AKG K240 MKII",
+    "name": "AKG K240 MKII", "requires_rewarded_ad": true,
     "brand": "AKG",
     "author": "Headphone.com",
     "tag": null,
