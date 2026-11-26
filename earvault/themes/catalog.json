@@ -10,6 +10,7 @@
       "category": "vinyl",
       "version": 1,
       "parameters": {
+        "skipGlyphHeightFraction": 0.38,
         "showCover": true,
         "coverShape": "circle",
         "rotationX": 54.0,
