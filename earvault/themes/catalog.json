@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 7,
+  "catalogVersion": 4,
   "items": [
     {
       "id": "midnight_sapphire",
@@ -8,7 +8,7 @@
       "kind": "style",
       "renderer": "vinyl",
       "category": "vinyl",
-      "version": 4,
+      "version": 1,
       "parameters": {
         "showCover": true,
         "coverShape": "circle",
@@ -40,9 +40,9 @@
           "sha256": "8cbb920c3dce5c1ffc4f08da464bc2b1e075aea6c6c080ca7ecb647384963bab"
         },
         "next": {
-          "path": "styles/midnight_sapphire/v2/next-final.webp",
-          "bytes": 8112,
-          "sha256": "47a4a1e56f0e0c22214992c591e0d670cb63afb4e0085b0c5a1cc5e051ab4269"
+          "path": "styles/midnight_sapphire/v1/next.webp",
+          "bytes": 2736,
+          "sha256": "6ee665367afa5d5a5dad9767b7c781d4eafe158c44a47c52085387408e4ff9f2"
         },
         "pause": {
           "path": "styles/midnight_sapphire/v1/pause.webp",
@@ -60,9 +60,9 @@
           "sha256": "6a4ce4477932f8e5f12d0276ca15127c7908aea151d899a17480e3c887edc840"
         },
         "previous": {
-          "path": "styles/midnight_sapphire/v2/previous-final.webp",
-          "bytes": 8030,
-          "sha256": "3a12c252fe6ec9b6904a09e652c9401f7e399c2da8c7cd6c0b13870e3d655e0c"
+          "path": "styles/midnight_sapphire/v1/previous.webp",
+          "bytes": 2716,
+          "sha256": "a5e2f0b729da19a4a2404adc4b4b923396193134ee47ca0bccfffb83da300ba5"
         }
       },
       "thumbnail": {
