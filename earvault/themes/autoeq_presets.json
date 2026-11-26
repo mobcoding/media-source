@@ -2343,5 +2343,293 @@
         "gain": 1.6
       }
     ]
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "brand": "SONY",
+    "author": "oratory1990",
+    "preamp_db": -6.2,
+    "band_count": 10,
+    "bands": [
+      {
+        "type": "LSC",
+        "freq": 105.0,
+        "gain": -3.2,
+        "q": 0.7
+      },
+      {
+        "type": "PK",
+        "freq": 2448.0,
+        "gain": 6.9,
+        "q": 2.46
+      },
+      {
+        "type": "PK",
+        "freq": 173.0,
+        "gain": -5.6,
+        "q": 0.96
+      },
+      {
+        "type": "PK",
+        "freq": 3028.0,
+        "gain": -5.4,
+        "q": 2.03
+      },
+      {
+        "type": "PK",
+        "freq": 1327.0,
+        "gain": 3.3,
+        "q": 0.58
+      },
+      {
+        "type": "HSC",
+        "freq": 10000.0,
+        "gain": 4.9,
+        "q": 0.7
+      },
+      {
+        "type": "PK",
+        "freq": 6110.0,
+        "gain": -2.3,
+        "q": 5.81
+      },
+      {
+        "type": "PK",
+        "freq": 875.0,
+        "gain": -1.2,
+        "q": 4.07
+      },
+      {
+        "type": "PK",
+        "freq": 1197.0,
+        "gain": 1.0,
+        "q": 3.28
+      },
+      {
+        "type": "PK",
+        "freq": 63.0,
+        "gain": 0.4,
+        "q": 2.13
+      }
+    ],
+    "index": 41,
+    "model_id": "sony_wh1000xm5",
+    "requires_rewarded_ad": true
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "brand": "SONY",
+    "author": "Super Review",
+    "preamp_db": -6.6,
+    "band_count": 10,
+    "bands": [
+      {
+        "type": "LSC",
+        "freq": 105.0,
+        "gain": -4.2,
+        "q": 0.7
+      },
+      {
+        "type": "PK",
+        "freq": 172.0,
+        "gain": -5.3,
+        "q": 0.86
+      },
+      {
+        "type": "PK",
+        "freq": 1100.0,
+        "gain": 4.8,
+        "q": 1.19
+      },
+      {
+        "type": "PK",
+        "freq": 4535.0,
+        "gain": 3.7,
+        "q": 3.39
+      },
+      {
+        "type": "PK",
+        "freq": 64.0,
+        "gain": 1.7,
+        "q": 1.64
+      },
+      {
+        "type": "HSC",
+        "freq": 10000.0,
+        "gain": 6.7,
+        "q": 0.7
+      },
+      {
+        "type": "PK",
+        "freq": 8970.0,
+        "gain": 3.8,
+        "q": 4.58
+      },
+      {
+        "type": "PK",
+        "freq": 6277.0,
+        "gain": -3.2,
+        "q": 5.41
+      },
+      {
+        "type": "PK",
+        "freq": 2999.0,
+        "gain": -2.6,
+        "q": 4.7
+      },
+      {
+        "type": "PK",
+        "freq": 2430.0,
+        "gain": 2.1,
+        "q": 6.0
+      }
+    ],
+    "index": 42,
+    "model_id": "sony_wh1000xm5",
+    "requires_rewarded_ad": true
+  },
+  {
+    "name": "Sennheiser HD 560S",
+    "brand": "SENNHEISER",
+    "author": "oratory1990",
+    "preamp_db": -6.6,
+    "band_count": 10,
+    "bands": [
+      {
+        "type": "LSC",
+        "freq": 105.0,
+        "gain": 9.0,
+        "q": 0.7
+      },
+      {
+        "type": "PK",
+        "freq": 8983.0,
+        "gain": 4.4,
+        "q": 2.63
+      },
+      {
+        "type": "PK",
+        "freq": 54.0,
+        "gain": -5.4,
+        "q": 0.48
+      },
+      {
+        "type": "PK",
+        "freq": 1148.0,
+        "gain": -1.5,
+        "q": 2.38
+      },
+      {
+        "type": "PK",
+        "freq": 491.0,
+        "gain": 0.6,
+        "q": 1.23
+      },
+      {
+        "type": "HSC",
+        "freq": 10000.0,
+        "gain": -3.9,
+        "q": 0.7
+      },
+      {
+        "type": "PK",
+        "freq": 7451.0,
+        "gain": 2.0,
+        "q": 3.91
+      },
+      {
+        "type": "PK",
+        "freq": 4502.0,
+        "gain": -1.7,
+        "q": 6.0
+      },
+      {
+        "type": "PK",
+        "freq": 1937.0,
+        "gain": 0.9,
+        "q": 3.93
+      },
+      {
+        "type": "PK",
+        "freq": 5639.0,
+        "gain": -0.9,
+        "q": 6.0
+      }
+    ],
+    "index": 43,
+    "model_id": "sennheiser_hd560s",
+    "requires_rewarded_ad": true
+  },
+  {
+    "name": "Sennheiser HD 560S",
+    "brand": "SENNHEISER",
+    "author": "Super Review",
+    "preamp_db": -6.3,
+    "band_count": 10,
+    "bands": [
+      {
+        "type": "LSC",
+        "freq": 105.0,
+        "gain": 6.7,
+        "q": 0.7
+      },
+      {
+        "type": "PK",
+        "freq": 8868.0,
+        "gain": 3.9,
+        "q": 1.34
+      },
+      {
+        "type": "PK",
+        "freq": 2747.0,
+        "gain": -2.5,
+        "q": 2.7
+      },
+      {
+        "type": "PK",
+        "freq": 1279.0,
+        "gain": -1.8,
+        "q": 2.5
+      },
+      {
+        "type": "PK",
+        "freq": 69.0,
+        "gain": -2.2,
+        "q": 0.66
+      },
+      {
+        "type": "HSC",
+        "freq": 10000.0,
+        "gain": -4.5,
+        "q": 0.7
+      },
+      {
+        "type": "PK",
+        "freq": 415.0,
+        "gain": 0.7,
+        "q": 0.96
+      },
+      {
+        "type": "PK",
+        "freq": 203.0,
+        "gain": -0.5,
+        "q": 1.53
+      },
+      {
+        "type": "PK",
+        "freq": 5237.0,
+        "gain": 2.3,
+        "q": 5.88
+      },
+      {
+        "type": "PK",
+        "freq": 4490.0,
+        "gain": -1.8,
+        "q": 6.0
+      }
+    ],
+    "index": 44,
+    "model_id": "sennheiser_hd560s",
+    "requires_rewarded_ad": true
   }
 ]
