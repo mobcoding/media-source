@@ -287,6 +287,7 @@
       },
       "archive": "mascot/axolotl.zip",
       "preview": "mascot/axolotl-cover.webp",
+      "requires_rewarded_ad": true,
       "sha256": "34ada66e15e6403cb172d4a71ad4e6136b85abd39b725c6fbdfad98b8a875b18",
       "categoryId": "animal"
     },
@@ -363,6 +364,7 @@
       },
       "archive": "mascot/moth.zip",
       "preview": "mascot/moth-cover.webp",
+      "requires_rewarded_ad": true,
       "sha256": "37a8a82d830b42d2fa8ad580f1230e34b61c00f76978209c20f729ac2706a597",
       "categoryId": "animal"
     },
@@ -496,6 +498,7 @@
       },
       "archive": "mascot/snap_drummer.zip",
       "preview": "mascot/snap_drummer-cover.webp",
+      "requires_rewarded_ad": true,
       "sha256": "5409c4ac99f5168027ad185b15b4b4aa88bbba7ecc3d122f402fdd6604ddb063",
       "categoryId": "plant"
     },
@@ -534,6 +537,7 @@
       },
       "archive": "mascot/ginkgo_fan.zip",
       "preview": "mascot/ginkgo_fan-cover.webp",
+      "requires_rewarded_ad": true,
       "sha256": "d13338cc7ca682a1658d11ce1b5458e76351e5f37a34ac222d9992af054a82c1",
       "categoryId": "plant"
     },
@@ -611,6 +615,7 @@
       "categoryId": "instrument",
       "archive": "mascot/drum_kit.zip",
       "preview": "mascot/drum_kit-cover.webp",
+      "requires_rewarded_ad": true,
       "sha256": "3443205b874d3bb258feb7e8e3648dc7cf2a087607eedd710ba800ef5a2fe0df"
     },
     {
@@ -763,6 +768,7 @@
       "categoryId": "retro_audio",
       "archive": "mascot/jukebox.zip",
       "preview": "mascot/jukebox-cover.webp",
+      "requires_rewarded_ad": true,
       "sha256": "6a6651fe03f598e8b3014e64a2faea86d18e0fca247910caa7e2b7304224f169"
     },
     {
@@ -801,6 +807,7 @@
       "categoryId": "stage_companions",
       "archive": "mascot/disco_dancer.zip",
       "preview": "mascot/disco_dancer-cover.webp",
+      "requires_rewarded_ad": true,
       "sha256": "d8b749a7205de038af06f6260065e7fa31936ff612add1233577495bc661f808"
     },
     {
@@ -915,6 +922,7 @@
       "categoryId": "sound_sprites",
       "archive": "mascot/chord_trio.zip",
       "preview": "mascot/chord_trio-cover.webp",
+      "requires_rewarded_ad": true,
       "sha256": "5503c393988b5f4ed83647fac22792212533665a41707827ef70f28c6504aa28"
     },
     {
@@ -991,6 +999,7 @@
       "categoryId": "tide_friends",
       "archive": "mascot/jelly_parasol.zip",
       "preview": "mascot/jelly_parasol-cover.webp",
+      "requires_rewarded_ad": true,
       "sha256": "8df4d527bac68742f40351870cf4500a7af46d7924dfce9985746d1384db1f49"
     },
     {
@@ -1067,6 +1076,7 @@
       "categoryId": "whale_girls",
       "archive": "mascot/star_humpback.zip",
       "preview": "mascot/star_humpback-cover.webp",
+      "requires_rewarded_ad": true,
       "sha256": "a094dcb57e6609147aaf29d1606dad6c20e7310ded4e33292fd7ba00e0208fc1"
     },
     {
@@ -1086,6 +1096,7 @@
       "categoryId": "whale_girls",
       "archive": "mascot/neon_blue_whale.zip",
       "preview": "mascot/neon_blue_whale-cover.webp",
+      "requires_rewarded_ad": true,
       "sha256": "f5e7a5457ef331b8c942145a459dd417086721e61540c6c8da8f857e0172a8ce"
     },
     {
