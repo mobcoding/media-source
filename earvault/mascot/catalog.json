@@ -196,6 +196,94 @@
       "categoryId": "tech"
     },
     {
+      "id": "dewey",
+      "names": {
+        "en": "Dewey",
+        "zh": "露珠"
+      },
+      "preview": "mascot/dewey-cover.webp",
+      "archive": "mascot/dewey.zip",
+      "sha256": "f5a68ace56d6e1c1e0689133382212d74e742d7f82c587b6727be5441706490d",
+      "categoryId": "tech"
+    },
+    {
+      "id": "fireball",
+      "names": {
+        "en": "Fireball",
+        "zh": "火球"
+      },
+      "preview": "mascot/fireball-cover.webp",
+      "archive": "mascot/fireball.zip",
+      "sha256": "06039936c1fd05f92a2baca034e6cf17679da1c5e99d54803f3a86079209d9a8",
+      "categoryId": "tech"
+    },
+    {
+      "id": "hoots",
+      "names": {
+        "en": "Hoots",
+        "zh": "眼镜猫头鹰"
+      },
+      "preview": "mascot/hoots-cover.webp",
+      "archive": "mascot/hoots.zip",
+      "sha256": "9003ee8a47d5b465aff5ce7404eb7530edb1960de07eed8419f87c838220c6ec",
+      "categoryId": "tech"
+    },
+    {
+      "id": "rocky",
+      "names": {
+        "en": "Rocky",
+        "zh": "岩石仔"
+      },
+      "preview": "mascot/rocky-cover.webp",
+      "archive": "mascot/rocky.zip",
+      "sha256": "7b655c9e81b9cb618fb46d33f883a10292122faa87e3daba605c1087e6eacdac",
+      "categoryId": "tech"
+    },
+    {
+      "id": "seedy",
+      "names": {
+        "en": "Seedy",
+        "zh": "芽芽"
+      },
+      "preview": "mascot/seedy-cover.webp",
+      "archive": "mascot/seedy.zip",
+      "sha256": "bf48bf906d93dd19b750482e0af7a1e4cf21933c348ab8d0b0bd8e08c2bc741a",
+      "categoryId": "tech"
+    },
+    {
+      "id": "stacky",
+      "names": {
+        "en": "Stacky",
+        "zh": "堆栈"
+      },
+      "preview": "mascot/stacky-cover.webp",
+      "archive": "mascot/stacky.zip",
+      "sha256": "85ee902b2d51cab3cd081c674875105921b47852420c3572346f12657bb09e08",
+      "categoryId": "tech"
+    },
+    {
+      "id": "bsod",
+      "names": {
+        "en": "BSOD",
+        "zh": "蓝屏仔"
+      },
+      "preview": "mascot/bsod-cover.webp",
+      "archive": "mascot/bsod.zip",
+      "sha256": "aa808a5948beee48a1e8810e4d70838caed60b6623bb11aa7555e9f31a9851d5",
+      "categoryId": "tech"
+    },
+    {
+      "id": "null_signal",
+      "names": {
+        "en": "Null Signal",
+        "zh": "空信号"
+      },
+      "preview": "mascot/null_signal-cover.webp",
+      "archive": "mascot/null_signal.zip",
+      "sha256": "4d0a46ed88816ea4b198e124ef78253abf927b71e883982b83f812b34cc27419",
+      "categoryId": "tech"
+    },
+    {
       "id": "fox",
       "names": {
         "zh": "落日狐",
